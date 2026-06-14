@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-bs-neutral-50 text-bs-neutral-900;
+  }
+}
+
+/* Custom scrollbar styling for premium data-heavy grids */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: theme('colors.bs-neutral-100');
+}
+
+::-webkit-scrollbar-thumb {
+  background: theme('colors.bs-neutral-200');
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: theme('colors.bs-neutral-600');
+}

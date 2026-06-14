@@ -1,0 +1,2648 @@
+
+
+ 
+ 
+   
+SURPLUS MATERIAL REPORT – 
+MAY’26
+ 
+` 
+ 
+  
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 1 of 31 
+ 
+Contents 
+1 Introduction ...........................................................................................................................2 
+2 Surplus Material Report Summary ...........................................................................................3 
+3 Vertical- wise Surplus Material Value (In Rs. Cr.) – Feb’26 vs May’26 ........................................4 
+4 Projects with No Declared Surplus Material .............................................................................5 
+5 Vertical Wise Data ..................................................................................................................9 
+6 Surplus Consumption Analysis ............................................................................................... 31 
+ 
+  
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 2 of 31 
+ 
+1 Introduction 
+This report presents the details of surplus materials currently available at the project sites. 
+The document provides a summary of the materials, including descriptions, specifications, 
+quantities, and project. The purpose of this report is to record the available surplus at the 
+EMPG project site so that they can be used in other projects. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 31 
+ 
+2 Surplus Material Report Summary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: Misc items in the table include SS Union, MTA, FTA, Y Strainer, Rubber Bellow, Hose Box, Back box, 
+termination box, ceiling fan, washing machine, refrigerator, etc. 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+VerticalProjectJob Value POC %  CableCable Tray ConductorCoupling Elbow Fastener Flange  Flange   Grilles Insulator Louver  Mast  MCB  Misc  Panel  PipeReinforcement SteelSheet   Socket  Tee  Valve  Valve   VCD   Wire
+Grand 
+Total (In 
+Rs. Cr.)
+% Surplus 
+on Job 
+Value
+Buildings   Apollo Hospitals - MEP Works - Hyd   80.02054  57%0.030.600.63  0.78%
+Buildings   ETV Parcel 8-A,B,C-HVAC Works   18.17933 100%0.000.010.02  0.09%
+Buildings HVAC Works for Medanta Hospital Noida 33.07229  78%0.010.010.050.07  0.21%
+BuildingsLTIMINDTREE KOLKATA74.7   56%   0.040.080.030.15  0.19%
+BuildingsLulu Mall-Kottayam33.42  100%0.010.010.02  0.06%
+Buildings MEP works of Apollo Healthcity, Gurugram  97.37  57%   0.050.070.090.22  0.22%
+BuildingsP&C  Projects Pvt Ltd ( DHK)14.36  60%0.01   0.030.150.18  1.27%
+BuildingsSands Infin IT Park134.99  100%0.070.07  0.05%
+Buildings   Sattva Image Tower-HVAC Works    24.93  28%0.080.08  0.33%
+Buildings TCS-TVM Misc.Civil and External Services  13.72  68%0.000.010.01  0.06%
+Buildings  WMUD TOWER A RESIDENTIAL (NEW)   41.44  62%0.69   0.130.060.110.070.29   0.081.42  3.43%
+Buildings   V Guard Innovation Campus-Kochi    14.71  86%   0.050.000.000.070.020.000.000.15  0.99%
+Data CenterAmazon DC HYD121 108.18  63%0.030.010.040.07  0.07%
+Data CenterVITP Pvt Ltd - CapitaLand Hyd Pearl DC  115.66  77%   0.47   0.130.60  0.52%
+Factories   Exide Energy - Mechanical Works   101.73  91%0.060.030.040.010.030.17  0.16%
+FactoriesJOCKEY FACTORY CUTTACK33.84  88%0.060.010.07  0.21%
+Factories  MEP works for Trimetro Factory Odisha   55.1   67%   0.13   0.030.000.000.0020.00   0.200.080.10   0.020.010.57  1.04%
+RailwayWCR EPC-01R-RJ:Nagda-Kota52.45  94%   0.070.030.010.020.060  0.010.17   0.36  0.70%
+Railway WCR EPC-3R : Gangapurcity - Ramganjmandi 138.21  91%   0.010.020.030.0980.000.16  0.12%
+SubstationPGCIL-SS86 FATEHGARH189.07  92%0.000.010.000.00   0.000.02  0.01%
+0.81   0.16   0.03   0.69   0.19   0.03   0.03   0.06   0.00   0.06   0.00   0.16   0.02   0.72   0.03   0.56   0.00   0.04   0.29   0.17   0.21   0.60   0.01   0.17   5.03
+Project wise Surplus Quantity Analysis
+Material Group
+Grand Total (In Rs. Cr.)
+Project Details
+Vertical Buildings Factories Data Center Railway Substation Total
+Value of Surplus May'26 (In Rs. Cr.)  3.01   0.81   0.67   0.52   0.02   5.03
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 4 of 31 
+ 
+3 Vertical- wise Surplus Material Value (In Rs. Cr.) – Feb’26 vs May’26 
+Note: The surplus values for Factories, Railway, Water and Substation were not recorded in the Feb’26 
+report. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.51
+0.00
+0.60
+0.000.00
+2.10
+3.01
+0.81
+0.67
+0.52
+5.03
+0.00
+1.00
+2.00
+3.00
+4.00
+5.00
+6.00
+Buildings  Factories  Data Centre  Railways  Substation   Total
+Vertical wise Surplus Value
+Value of Surplus Feb'26 (In Rs. Cr.)Value of Surplus May'26 (In Rs. Cr.)
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 5 of 31 
+ 
+4 Projects with No Declared Surplus Material 
+The following projects have either reported no surplus material or have not provided any response/declaration 
+regarding surplus materials; accordingly, no surplus material value has been recorded for these projects. 
+3.1. Buildings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VerticalProject Name Job Value  POC %
+Buildings   Deloitte, Pune - 3rd Floor Fitout Works4.13  75%
+BuildingsK Raheja at Baner 94-97 FF Works21.29  0%
+Buildings   TCS SP2 Pune Phase 1A - HVAC Works24.80  100%
+Buildings   National Cancer Institute Nagpur HVAC    20.66  100%
+BuildingsBGR MARWA LABOUR AC0.56  100%
+Buildings    BGR MARWA LABOUR VENTILATION0.61  100%
+BuildingsGIFT City District Cooling Plant66.52  62%
+Buildings   GIFT City DCS CHW Piping and Valves60.70  6%
+BuildingsOberoi Sky City Mall - Fire Fighting12.76  100%
+BuildingsOberoi Sky City Mall - Plumbing9.08  100%
+Buildings   Oberoi Sky City Mall - Electrical Works34.58  100%
+Buildings  Oberoi Sky City Mall, Mumbai - HVAC Work   56.70  100%
+BuildingsMUD TOWER-A HOTEL75.15  43%
+BuildingsWMUD TOWER A RESIDENTIAL6.67  81%
+Buildings    Oberoi Tower A Hotel HVAC Works29.70  17%
+Buildings   Oberoi Tower A Hotel Plumbing Works14.69  16%
+Buildings   Oberoi Tower A Hotel Fire Fighting Works    11.87  10%
+Buildings   WMUP - TA - HOTEL - ELECTRICAL WORKS   25.44  9%
+BuildingsORL-WORLI MIX USE PROJECT87.78  100%
+Buildings   STT NMDC02 MEP works PH-3A,Terrace    181.03  1%
+Buildings   STT DC-05 2nd and 3rd floor MEP Works   147.18  0%
+Buildings    Chalet Taj Airport Hotel, New Delhi53.57  11%
+BuildingsCitra properties ltd-INDIABULLS3.88  100%
+BuildingsDLF Camellias- Gurgaon39.02  100%
+BuildingsLarsen & Toubro Limited22.43  100%
+Buildings   Megnum Global Park at Sec 58 Gurugram    19.04  100%
+Buildings PHE&FF WORKS-DLF SUMMIT PLAZA GURGAON  12.22  60%
+Buildings HVAC WORKS AT DLF SUMMIT PLAZA GURUGRAM 852.04  77%
+Buildings  HVAC Works DLF Downtown 4 High-Low Side   36.90  74%
+Buildings   Ventilation Works for DLF The Arbour31.55  9%
+BuildingsVentilation for Annupur (Supply)7.32  100%
+Buildings   Shapoorji Pallonji & Co. Pvt Ltd ( Cance37.71  95%
+Buildings  Seaview (Candor Techspace) Sector 135 No   38.66  100%
+Buildings   HVAC WORKS AT MAX SQUARE NOIDA16.65  100%
+Buildings  HVAC WORKS AT SNU Hostel 4 and 5 DADRI   14.15  100%
+BuildingsNMIMS CAMPUS CHANDIGARH7.88  100%
+BuildingsCAPFIMS - DELHI51.54  85%
+BuildingsIICC DWARKA New Delhi46.64  80%
+Buildings  HVAC Works Populus Bharti Aerocity Delhi   32.87  76%
+BuildingsHVAC Works For KNMA Delhi45.50  2%
+Buildings  AHU Works Populus Tenant Area Aerocity    5.85  26%
+Buildings   SUBSTATION WORKS AT HPSEB Solan21.40  94%
+BuildingsVR METROPOLITAN MALL DELHI82.86  15%
+Buildings ATRIUM PLACE GURUGRAM (HINES-SHAPOORJI)  185.50  63%
+BuildingsAMRITA HOSPITAL FARIDABAD54.42  97%
+BuildingsLulu Mall Lucknow83.13  100%
+BuildingsHyper Market ( Lullu Mall)19.21  100%
+Buildings   MEP Works Triune Lumina IT Park Noida    53.45  2%
+Buildings  HVAC WORKS PLOT LP-1B-02 AEROCITY DELHI   60.54  8%
+VerticalProject Name Job Value  POC %
+Buildings  DCS WORKS PLOT LP-1B-02 AEROCITY DELHI   28.23  37%
+BuildingsDIA WO - HVAC Works21.33  96%
+BuildingsDIAL PO - HVAC Works12.91  78%
+Buildings   HVAC Works Jewar International Airport   104.00  72%
+BuildingsNPCIL KALPAKAM31.14  62%
+BuildingsA/C  SYSTEM FOR BHEL TUTICORI6.18  100%
+BuildingsProzone Mall- HVAC Works3.67  100%
+BuildingsTRIL Service Apartment16.05  100%
+Buildings RMZ ONE PARAMOUNT-L&W HVAC & ELEC WORKS  50.03  100%
+Buildings   PROZONE MALL - ELECTRICAL WORKS4.93  100%
+BuildingsNew Moffusil Bus Terminus21.79  98%
+Buildings  Chennai New Moffusil Bus Stand-PHE Works   6.02  87%
+BuildingsMEP works for Embassy Block 1025.97  83%
+Buildings    PHE FPS Works for DLF Down Town33.94  101%
+BuildingsMEP Works for LULU HYPER CBE8.94  100%
+Buildings  Wells Fargo-HVAC Fitout works Block9 CHN   9.46  100%
+Buildings  MEP Works for Sunmed Healthcare Pvt Ltd   47.44  100%
+Buildings   HVAC Fitout Works at Deloitte Chennai2.93  100%
+Buildings  HVAC PHE &FPS works for DLF Downtown DT3  38.75  95%
+BuildingsMEP works for Indus Ind bank7.93  100%
+Buildings   Deloitte Fitout works phase 2, chennai1.48  100%
+Buildings  MEPworks for Phoenix Commercial Building   21.10  94%
+Buildings    PHE works for TCS Siruseri Chennai21.60  38%
+BuildingsHVAC FPS Works for TCS Siruseri24.47  43%
+Buildings  MEP Works for LULU Shenoy nagar Metro    9.25  61%
+Buildings   Phoenix Comm Bld Fitout works, Chennai    2.40  69%
+Buildings    MEP Works for LULU Central Metro3.27  57%
+Buildings   Deloitte HVAC Fitout works-GF,7th Floor2.02  69%
+Buildings   MEP WORKS FOR KRC BLOCK 01 CHENNAI    50.00  18%
+Buildings   MEP WORKS FOR MGM Hospital,Chennai    33.50  4%
+Buildings MEP WORKS FOR L&T INNOVATION T3,CHENNAI  45.16  7%
+Buildings MEP WORKS FOR L&T INNOVATION T4,CHENNAI  44.84  2%
+Buildings   Deloitte Chennai - 9F HVAC Fitout works3.65  0%
+BuildingsBHAVINI NPCL KALPAKAM6.87  99%
+Buildings AIRCONDITIONING SYSTEM FOR BHEL TUTICORI  1.55  100%
+Buildings   HVAC WORKS - L & T - AIIMS GUNTUR34.65  81%
+BuildingsModinization of Chennai Airport45.65  76%
+BuildingsGAR Corporation Pvt Ltd - SEZ16.40  76%
+BuildingsLaxmi Infobahn STP  - Non SEZ24.07  82%
+BuildingsDLF Assets Private Limited3.83  98%
+BuildingsApurupa DT Infra LLP10.65  98%
+Buildings    Vamsiram Builders - Jyothi Techpark44.27  75%
+Buildings    L&W (RMZ Nexity) Electrical Works55.62  99%
+BuildingsYashoda Hospital - HVAC Works24.25  100%
+Buildings   L & T ( KRC -Raheja) - Electrical Works23.40  95%
+Buildings   L&W  (RMZ Nexity) Basement Ventilation    6.44  96%
+BuildingsL&W  (RMZ Nexity) HVAC Works43.53  90%
+BuildingsL&W  (RMZ Spire) HVAC Works24.21  92%
+BuildingsBSR Builders LLP - Block II29.53  86%
+Buildings   Moonlike Construction Pvt Ltd -FPS Wrks    26.02  50%
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 6 of 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VerticalProject Name Job Value  POC %
+Buildings   TCS - Adibatla SEZ Block 3 HVAC Works29.86  88%
+Buildings   Meenakshi Infrastructure Pvt Ltd - HVAC    40.37  50%
+Buildings   Hyma Developers Pvt Ltd- HVAC Works -1    15.99  65%
+Buildings   Ushodaya News Agencies - HVAC Works    18.46  66%
+Buildings  Yashoda Hospital-Mechanical works-6F&11F   2.92  46%
+Buildings  Hyma Developers Pvt Ltd- HVAC & PHE Wrks   93.01  24%
+Buildings   Trion Properties Pvt Ltd (Inorbit Mall)81.75  65%
+BuildingsPhoenix - 285 FD50.45  87%
+BuildingsPhoenix Centaurus55.93  90%
+BuildingsPhoenix (Aquila)39.01  100%
+BuildingsL & T ( Phoenix-H10) MEP Works49.60  92%
+Buildings   L & T ( Phoenix-H10) Tower 01- Add Wrks   11.32  94%
+Buildings   Phoenix Centaurus 2B Additional Works7.14  74%
+Buildings   L & T (Phoenix H10) -Tower 3 MEP works    48.03  94%
+Buildings   Phoenix Centaurus-2C-HVAC & Electrical    14.80  83%
+BuildingsMantri Blossom0.74  100%
+BuildingsEmbassy One Dev. Pvt. Ltd. P-I12.54  100%
+BuildingsUrbanac Projects-HVAC Works22.45  89%
+BuildingsChalet Hotels MEP Works17.09  100%
+BuildingsMFAR Keystone MEP Works26.43  100%
+BuildingsGardencity Verde MEP Works75.07  84%
+BuildingsETV Parcel 8 - Tower D24.38  100%
+BuildingsHVAC Works For RMZ EW20-2123.28  75%
+BuildingsMEP works at VR Mall0.90  0%
+Buildings   Texas Instruments @ Bagmane Aerial40.19  74%
+BuildingsMEP Work for Block D1&D265.06  80%
+BuildingsRMZ 30 & 33 - HVAC Works27.55  47%
+Buildings    HVAC Works for Bagmane Taurus -410.15  90%
+Buildings  HVAC & Electrical Works - Bagmane Helium   9.07  87%
+BuildingsDNR Altitude MEP Works47.25  86%
+Buildings  KEMPEGOWDA INTERNATION AIRPORT BIAL   64.43  101%
+BuildingsBIAL CN353.75  53%
+BuildingsBIAL PO - HVAC Works10.87  83%
+BuildingsGokulam Mall cum Hotel9.88  100%
+Buildings   Cochin International Airport Hotel (MEP)    24.87  100%
+Buildings    Cherian Varkey Const Co-MCC Thlsry8.52  77%
+Buildings   LISIE HOSPITAL-HVAC WORKS-Ernakulam    6.98  100%
+Buildings  Embassy Taurus Tech Zone Downtown TVM   26.01  100%
+BuildingsLulu Mall Calicut39.70  100%
+Buildings    Lulu Hypermarket at Maradu,Cochin5.67  100%
+BuildingsLulu Hypermarket Tirur5.96  77%
+Buildings    Aster Capital TVM-FPS & PHE Works14.40  61%
+BuildingsLulu Mall,F&C-Tirur Phase 29.17  82%
+Buildings   Wipro-Kochi-FPS,PHE & HVAC Ext Piping    15.35  56%
+BuildingsNTPC MUZZAFARPUR- AC- Supply3.74  96%
+Buildings  NTPC MUZZAFARPUR VENTILATION-Supply    3.55  97%
+BuildingsExecutive Engineer (E) ISMU11.45  97%
+BuildingsREPROSCAN TECH PARK LLP9.81  101%
+BuildingsPEERLESS HOSPITAL KOLKATA68.03  80%
+BuildingsDELOITTE KOLKATA 12TH FLOOR4.65  100%
+VerticalProject Name Job Value  POC %
+BuildingsBaytown Kolkata44.83  41%
+Buildings    Maruti CODO Howrah-MEP Works10.15  66%
+Buildings    POWER PLANT ENGINEERS LIMITED0.53  100%
+Buildings OHIO CARDIOLOGY ASSOCIATES INDIA PVT LTD   2.79  104%
+Buildings BHEL 1X500 MW BOKARO TPS JHARKHAND - AC   1.16  100%
+BuildingsNTPC Barh1.78  111%
+BuildingsNTPC NABHINAGAR LABOUR0.43  100%
+BuildingsNTPC MUZZAFARPUR- AC- Labour0.77  100%
+Buildings  NTPC MUZZAFARPUR VENTILATION-Labour   0.64  100%
+Buildings    POWER PLANT ENGINEERS LIMITED.0.43  97%
+Buildings   POWER PLANT ENGINEERS LIMITED AC3.08  96%
+Buildings BHEL 1X500 MW BOKARO TPS JHARKHAND-VENT  3.27  100%
+Buildings BHEL 1X500 MW BOKARO TPS JHARKHAND - AC   1.16  100%
+BuildingsNTPC Barh1.78  111%
+BuildingsNTPC NABHINAGAR SUPPLY5.63  99%
+BuildingsMerlin Acropolis Projects Pvt Ltd9.05  98%
+Buildings    POWER PLANT ENGINEERS LIMITED.0.43  97%
+BuildingsAIIMS GUWAHATI32.40  97%
+Buildings   TATA CANCER CARE HOSPITAL-SILCHAR    14.21  86%
+Buildings   TATA CANCER CARE HOSPITAL-JORHAT6.37  100%
+Buildings   TATA CANCER CARE HOSPITAL-DARRANG    6.90  100%
+Buildings  TATA CANCER CARE HOSPITAL - DIBRUGARH   12.75  100%
+BuildingsAIIMS GUWAHATI IPD BLOCK18.50  91%
+BuildingsIMS & SUM Hospital-II29.86  65%
+BuildingsTCS Kalinga Park - Electrical14.91  100%
+BuildingsNEIGRIHMS SHILLONG24.59  98%
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 7 of 31 
+ 
+3.2. Factories and Data Center 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VerticalProject Name Job Value  POC %
+Factories  Princeton Waltz Data Center Phase 2 HVAC   7.44  100%
+Factories   Netmagic NAV1A Terrace , Navi Mumbai    3.54  100%
+FactoriesNxtra DC Mahape MEP works101.52  81%
+FactoriesPDG Waltz DC- MU1 - Phase III12.51  100%
+FactoriesYotta NM1 10 F Data Center11.00  72%
+FactoriesYotta NM1 14 F Data Center19.96  41%
+FactoriesNAV2 DC 03 HVAC works40.91  24%
+Factories   Webwerks Data Center Mum 02 , Rabale    11.47  100%
+FactoriesSTT NMDC02 Substructure Work272.66  43%
+Factories    STT NMDC03 Superstructure works267.65  22%
+Factories   Veritas Capitaland Data Center Ph1 NM    166.35  88%
+Factories   MEP GC works for Phase 2 and 3 Tower 1   267.38  43%
+FactoriesCDU SFN works for Veritas DC22.00  0%
+FactoriesSTT PUNE DC04 CSA & MEP works256.81 100%
+Factories    STT DC04 CSA & MEP works Phase II111.28 100%
+Factories CSA WORKS FOR STT DC05 PUNE DIGHI PROJEC  163.40 100%
+FactoriesSTT DC-05 MEP Works Phase-1158.23  65%
+FactoriesSTT DC5 4th Floor MEP Works48.55  43%
+Factories Cube - ISRO PFTF HVAC Works31.02  100%
+Factories   JCB Halol Greenfield Manufacturing facil    12.42  100%
+FactoriesMicron - TPL HVAC Package 1167.53  66%
+FactoriesWada 4A5.24  100%
+FactoriesWada Plant 4 (Electrical System)5.17  100%
+IndustrialNMDC- CCAS43.51  94%
+Industrial    KCL-Compressed Air System & LDO40.07  100%
+IndustrialMicron - TPL Utility Package 295.19  69%
+Factories YOTTA DATA CENTER 4TH FLOOR WORK NOIDA  6.05  100%
+FactoriesSTT DATA CENTER NOIDA89.90  100%
+FactoriesSTT DATA CENTRE NOIDA PHASE II104.23 100%
+Factories   STT Noida DC-02 MEP Works Phase-189.56  43%
+Factories EMBASSY INDUSTRIAL PARK FARUKHNAGAR GGN  17.82  100%
+Factories   MSIL SPD Warehouse at Kharkhoda - FF    44.50  43%
+Factories  HVAC WORKS LENSKART FACTORY BHIWADI   12.28  100%
+Factories    MEP Works Wipro Hydraulic Jaipur28.55  100%
+FactoriesMEP Works Kerakoll India Jaipur13.18  100%
+Factories   Mechanical Works AB Mauri India Pvt.Ltd   21.31  60%
+Factories   AB Mauri Process Area-HVAC & Electrical   23.79  76%
+FactoriesHVAC Works-Dixon Factory-Noida24.50  38%
+Factories FREUDENBERG FRCCI FACTORY MORINDA PUNJAB  21.90  100%
+Factories FREUDENBERG VCI FACTORY MORINDA PUNJAB  31.65  100%
+Factories FREUDENBERG FNI FACTORY MORINDA PUNJAB  28.62  100%
+IndustrialTATA STEEL PRS-LUDHIANA5.00  82%
+IndustrialMaruti Suzuki India Limited63.80  75%
+FactoriesTPL - First Solar - HVAC Works51.37  100%
+Factories   MRF - TBR & PCR EXPANSION - AC WORKS   26.98  100%
+Factories   MRF - TBR & PCR EXP - VENTILATION PKG    13.29  100%
+Factories   TEPL MARIGOLD BM3 - HVAC WORKS49.24  100%
+Factories   TEPL MARIGOLD BM3 - Electrical Works    47.90  100%
+FactoriesTELCOM-NPI BLOCK-HVAC WORKS28.93  100%
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 8 of 31 
+ 
+3.3. Infrastructure 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VerticalProject Name Job Value  POC %
+Infrastructure    ECS & TVS Works for Dharavi Station28.96  96%
+Infrastructure   ECS & TVS Works for Shitladevi Station31.81  94%
+InfrastructureECS & TVS Works for Dadar Station29.69  96%
+Infrastructure   ECS & TVS Works for Siddhivinayak Stn    31.66  96%
+InfrastructureECS & TVS Works for Worli Station28.36  95%
+Infrastructure   ECS & TVS Works for Acharya Atre Stn28.65  95%
+Infrastructure   ECS & TVS Works for Science Museum Stn   31.96  94%
+Infrastructure   ECS & TVS Works for Mahalaxmi Station    28.29  95%
+Infrastructure   ECS & TVS Works for Mumbai Central Stn   29.83  95%
+Infrastructure    E&M Works for MMRCL Aarey Depot    105.63  92%
+Infrastructure   MEP Works - DOGUS-SOMA JV UGC03    195.20  89%
+InfrastructureOPTCL Package - 4334.16  100%
+InfrastructureMVAC - DHAULA KUAN STATION4.15   83%
+InfrastructureMVAC - IGI STATION5.83   81%
+InfrastructureMVAC - NEW DELHI STATION8.87   67%
+InfrastructureMVAC - NH - 8 STATION3.83  105%
+InfrastructureMVAC - SHIVAJI STATION6.80   89%
+InfrastructureMVAC - TVB BUILDING0.93   16%
+InfrastructureMVAC - DWARKA DEPOT4.11   99%
+InfrastructureElectrical - Dhaula Kuan Station6.06  110%
+InfrastructureElectrical - IGA Station16.48  78%
+InfrastructureElectrical - New Delhi Station26.11  105%
+InfrastructureElectrical - NH 8 Station12.54  106%
+InfrastructureElectrical - Shivaji Stadium18.33  91%
+InfrastructureElectrical - TVB Building1.52   70%
+InfrastructureElectrical - Dwaraka Depot15.87  108%
+InfrastructureElectrical - Dwaraka Sector 2113.34  39%
+InfrastructurePlumbing - Dhula Kuan Station1.35   75%
+InfrastructurePlumbing - IGI Station1.77   77%
+InfrastructurePlumbing - New Delhi Station2.23   75%
+InfrastructurePlumbing - NH 8 Station1.60   79%
+InfrastructurePlumbing - Shivaji Stadium Station2.21   96%
+InfrastructurePlumbing - TVB Building Station0.37   71%
+InfrastructureFire Fighting - Dhaula Kuan Station1.57   57%
+Infrastructure    Fire Fighting - IGI AIRPORT STATION1.87   60%
+InfrastructureFire Fighting - NEW DELHI STATION2.07   94%
+InfrastructureFire Fighting - NH-8 STATION1.78   53%
+Infrastructure   Fire Fighting - SHIVAJI STADIUM STATION    2.16   59%
+InfrastructureFire Fighting - TVB BUILDING0.90   7%
+InfrastructureFire Fighting - Dwarka Depot2.66  102%
+InfrastructureSMS - Dhaula Kuan Station1.49   81%
+InfrastructureSMS - IGI Station3.03   98%
+InfrastructureSMS - New Delhi Station3.13   96%
+InfrastructureSMS - NH 8 Station1.70   82%
+InfrastructureSMS - Shivaji Stadium Station3.16   95%
+InfrastructureSMS - TVB Building1.02   92%
+InfrastructureSMS - Dwarka Sector 21 Station0.20   38%
+Infrastructure   SMS - Operational Control Centre (OCC)    0.11   70%
+InfrastructureSMS - Depot0.73   93%
+VerticalProject Name Job Value  POC %
+InfrastructureSMS - Receiving Sub Station (2Nos)0.10   14%
+InfrastructureACS - Dhaula Kuan Station0.11   96%
+InfrastructureACS - IGI Station0.12   84%
+InfrastructureACS - New Delhi Station0.14   88%
+InfrastructureACS - NH 8 Station0.12   104%
+InfrastructureACS - Shivaji Stadium Station0.13   79%
+InfrastructureACS - TVB Building0.02   105%
+InfrastructureACS - Dwarka Sector 21 Station0.15   50%
+Infrastructure   ACS - Operational Control Centre (OCC)0.01   0%
+InfrastructureACS - Depot0.10   158%
+InfrastructureTrack Side Electrical15.14  169%
+InfrastructureTrack Side Fire Fighting8.95   97%
+Infrastructure   E&M for 3 Elevated Stations in Haryana6.69   100%
+Infrastructure    E&M for NCB Colony & Ballabhgarh6.14   100%
+Infrastructure    E&M for 6 Elevated Stations in Delhi13.98  100%
+Infrastructure   Najafgarh Underground Station Phase-3    20.30  100%
+Infrastructure   E&M for Elevated Metro Corridor-NE03   116.37  100%
+InfrastructureDMRC UG STATIONS PH-III LOT-4134.52  100%
+InfrastructurePGCIL PACKAGE - SS7719.03   99%
+Infrastructure   PGCIL SS50T 765 KV BAY EXTN - PROJECT    86.88   16%
+Infrastructure  PGCIL - SS50T 765 KV BAY EXTN MAN SPARES   4.34   8%
+Infrastructure   PGCIL 220KV AIS SUBSTATION PKG-SS117    90.21   10%
+Infrastructure   AEGCL - Transformer Augmentation Pkg I   66.49   93%
+InfrastructureBMRCL E&M-5/UG/Ph-II218.21  76%
+InfrastructureBMRCL EM 4 UG ELEV PH II214.85  70%
+InfrastructureBMRCL ECTVS 01182.80  67%
+Water Projects    MPJNM Khategaon Kannod Dewas542.24  57%
+Water Projects   Baranga Block (Banki) of Cuttack Dist.    188.77  72%
+Water ProjectsBaliapal block of Balasore136.96  76%
+Water Projects    Nishintakoili block of Cuttack district62.71   63%
+EMPG RailwaysWCR EPC-01R-MP:Nagda-Kota52.45   94%
+EMPG RailwaysCORE PSI ECR 01 : Bihar167.75  85%
+EMPG RailwaysCORE PSI ECR 01 : Jharkhand139.43  90%
+EMPG RailwaysMRK-02 : Dum Dum & Belgachiya25.94   92%
+EMPG Railways MRK: GEETANJALI, ESPLANADE & NOAPARA TSS  53.39   53%
+EMPG RailwaysCORE PSI ECR 01 : Uttar Pradesh9.45   65%
+EMPG Railways    NWR Dausa-Gangapurcity - OHE PSI121.39  60%
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 9 of 31 
+ 
+5 Vertical Wise Data 
+5.1 . Data Center 
+3.1.1 VITP Pvt Ltd - CapitaLand Hyd Pearl DC (G28-44006) 
+Material 
+Group 
+Material Description   Specification   Qty  UoM   Make    Unit Rate 
+(In Rs. INR)  
+Value (In Rs. 
+Cr.) 
+Cable 
+1C X 300 Sqmm Cu YY   Cu. Flexible    842   M     KEI    2,580.00    0.22 
+1C X 240 Sqmm Cu YY 
+Black 
+Cu. Flexible    425   M     KEI    1,979.66    0.084 
+4C X 4 Sqmm Cu Armd   Cu.Armoured   90   M     KEI     151.00    0.0013 
+5C X 6 Sqmm Cu 
+Flexible 
+Cu. Flexible    360   M     KEI     267.45    0.0096 
+3C X 6 Sqmm Cu 
+Flexible 
+Cu. Flexyble    1823   M     KEI     162.09    0.029 
+1C X 240 Sqmm Al Un- 
+Armd 
+Al. Un-Armd   364   M     KEI     235.00    0.0085 
+3.5C X 95 Sqmm Al 
+Armd 
+Al-Armd    183   M     KEI     351.00    0.0064 
+3.5C X 120 Sqmm Al 
+Armd 
+Al-Armd    132   M     KEI     435.00    0.0057 
+4C X 25 Sqmm Al Armd    Al-Armd    59   M     KEI     150.00    0.0008 
+3.5C X 240 Sqmm Al 
+Armd 
+Al-Armd    150   M     KEI     831.00    0.012 
+3C X 300 Sqmm Al UE 
+HT Cable  
+11KV, Al.UE 
+cable 
+27   M    Polycab    1,692.00    0.0046 
+1C X 4 Sqmm Cu Black   Cu. Flexible    164   M     KEI 31.27    0.00051 
+1C X 185 Sqmm Al.un-
+Armd 
+Al.un-Armd   428   M     KEI    1,495.13    0.064 
+1C X 630 Sqmm Al E HT 
+Cable  
+11KV, Al.E cable   23   M     KEI     818.00    0.00188 
+3.5C X 35 Sqmm Cu 
+Armd 
+Cu.Armoured   178   M     KEI    1,058.00    0.019 
+Cable 
+Tray 
+1000*100 GI Lader 
+Type 
+2mm, GI Ladder 
+Tray 
+240   M    Niedax    641.00    0.015 
+900*100mm GI Perf 
+Tray 
+2mm, GI 
+Perforated Tray 
+450   M   Electrofab   1,625.00    0.073 
+600*100mm GI Perf 
+Tray 
+2mm, GI 
+Perforated Tray 
+400   M    Niedax    1,103.00    0.044 
+         Total     0.60 
+ 
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 10 of 31 
+ 
+Designated Point of Contact:-  
+Shaik Shareef Miya  
+Role: Project Construction Engineer 
+Contact Details: 9908085032 
+ 
+Material Photographs 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Description: 600*100mm GI Perf Tray                                         Description: 1C X 300 Sqmm Cu YY 
+Make: Niedax                                Make: KEI  
+Qty: 400 M                                  Qty: 842 M 
+Specification: 2mm, GI Perforated Tray                                        Specification: Cu. Flexible  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Description: 1C X 240 Sqmm Cu YY Black                                      Description: 1C X 6 Sqmm Cu Flexible  
+Make: KEI                                 Make: KEI  
+Qty: 425 M                                    Qty: 360 M 
+Specification: Cu. Flexible                                                                 Specification: Cu. Flexible 
+ 
+ 
+ 
+ 
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 11 of 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Description: 3.5C X 120 Sqmm Al Armd                                          Description: 1C X 240 Sqmm Al Un- Armd 
+Make: KEI                                    Make: KEI  
+Qty: 132 M                                      Qty: 364 M 
+Specification: Al-Armd                                                                   Specification: Al. Un-Armd 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Description: 1C X 185 Sqmm Al.un-Armd                                       Description: 900*100mm GI Perf Tray 
+Make: KEI                                                  Make: Electrofab 
+Qty: 428 M                                       Qty: 450 M 
+Specification: Al.un-Armd                                                                  Specification: 2mm, GI Perforated Tray 
+ 
+ 
+ 
+ 
+                                                                     Description: 1000*100 GI Ladder Type 
+                        Make: Niedax 
+                    Qty: 240 M 
+                                                                Specification: 2mm, GI Ladder Tray       
+ 
+ 
+ 
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 12 of 31 
+ 
+3.1.2.  HYD 121 (G28-44003 - G28-44004 - G28-44005) 
+ 
+Sr. 
+No 
+Material Description Specification Qty UoM 
+Unit 
+Rate 
+Value (In Rs. 
+Cr.) 
+1 
+40NB M S Handrail 
+pipe  
+97 No x 6.0M 580 M 150.00    0.01 
+2 50NB M S square tube  
+( 3.0M-50 No, 4.0M- 06 No, 
+4.5M- 25 No, 6.0M- 03M 
+310 M 864.00    0.03 
+3 G I Sheet 1.1M x 1.5M  39  No 1,386     0.01 
+4 G I Sheet 1.1M x 3.0M  47  No 1,386     0.01 
+5 G I Sheet 1.1M x 3.4M  39  No 1,386     0.01 
+6 G I Sheet 1.1M x 3.7M 42  No 1,386     0.01 
+7 G I Sheet 1.1M x 4.0M  52  No 1,386     0.01 
+8 G I Sheet 1.1M x 5.8M 50  No 1,386     0.01 
+            Total    0.073 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 13 of 31 
+ 
+Designated Point of Contact:-  
+Markandeya N  
+Role: Procurement Professional 
+Contact Details: 9885611279 
+ 
+5.2 . Buildings 
+3.2.1. Sattva Image Tower-HVAC Works (G10-44040) 
+Project 
+Code 
+Material 
+Decription 
+Specification Qty UoM Make 
+Unit 
+Rate 
+Amount 
+Invoice 
+Date 
+Surplus 
+Declare 
+date 
+Not 
+consumed 
+since 
+ (A) (B) (C) 
+G10-
+44040 
+900 mm 
+dia C class 
+MS Pipe 
+10mm Thick  60  Rmt  JCO  13,800 0.083 
+12-09-
+2025 
+09-02-
+2026 
+12-09-
+2025 
+ 
+Designated Point of Contact:  
+Rakesh Murahari  
+Role: Project Construction Engineer 
+Contact No: 7093850262 
+ 
+ 
+ 
+3.2.2. Apollo Hospitals - MEP Works - Hyd (G10-44039) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project CodeProject NameMaterial Description   SpecQtyUoM   Make U/R  Amount
+G10-44039 Apollo Hospitals - MEP Works - Hyd PIBCV Valve-25mm    PN16   17 Nos  Danfoss   9,189.00  0.02
+G10-44039 Apollo Hospitals - MEP Works - Hyd PIBCV Valve-40mm    PN16   23 Nos  Danfoss  2,12,686.00 0.49
+G10-44039 Apollo Hospitals - MEP Works - Hyd PIBCV Valve-50mm    PN16   26 Nos  Danfoss   22,533.00  0.06
+G10-44039 Apollo Hospitals - MEP Works - Hyd PIBCV Valve-65mm    PN16   7 Nos  Danfoss   42,680.00  0.03
+G10-44039 Apollo Hospitals - MEP Works - Hyd PIBCV Valve-80mm    PN16   1 Nos  Danfoss   55,920.00  0.01
+G10-44039 Apollo Hospitals - MEP Works - Hyd 11KW Starter Panel  VFD Bye Pass  1 Nos  VK Power master  18204   0.00
+G10-44039 Apollo Hospitals - MEP Works - Hyd 5.5 Kw starter Panel  VFD Bye Pass  5 Nos  VK Power master 17,461.00  0.01
+G10-44039 Apollo Hospitals - MEP Works - Hyd 3.7 kw starter panel DOL Starter Panel 5 Nos  VK Power master 14,266.00  0.01
+G10-44039 Apollo Hospitals - MEP Works - Hyd 2.2 kw starter panel DOL Starter Panel 2 Nos  VK Power master 14,117.00  0.00
+G10-44039 Apollo Hospitals - MEP Works - Hyd 1.5 kw starter panel DOL Starter Panel 1 Nos  VK Power master 14,117.00  0.00
+G10-44039 Apollo Hospitals - MEP Works - Hyd 0.75 kw starter panel DOL Starter Panel 5 Nos  VK Power master 13,000.00  0.01
+0.63
+Total (In Rs. Cr)
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 14 of 31 
+ 
+3.2.3. WMUD TOWER A RESIDENTIAL (NEW) (G10-10030) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project CodeProject NameMaterial DescriptionSpecQty   UoM   Make    U/R   Amount
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS 90 Deg. Elbow 300MMSS Fittings    2   Nos-   28,808.68  0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS 90 Deg. Elbow 200MMSS Fittings    2   Nos-   21,796.25  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS 45 Deg. Elbow 65MMSS Fittings    4   Nos   Shurjoint 7,647.00  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS 90 Deg. Elbow 50MMSS Fittings    2   Nos   Fitwel  3,501.25  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS 90 Deg. Elbow 50MMSS Fittings    1   Nos   Shurjoint 3,501.25  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS 45 Deg. Elbow 50MMSS Fittings    1   Nos   Shurjoint 3,501.25  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS 90 Deg. Elbow 40MMSS Fittings    3   Nos-   1,958.09  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS 90 Deg. Elbow 32MMSS Fittings    6   Nos   Shurjoint 1,958.09  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS 90 Deg. Elbow 32MMSS Fittings    47   Nos-   1,958.09  0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS 45 Deg. Elbow 20MMSS Fittings    67   Nos   Grinnell  1,538.57  0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS 90 Deg. Elbow 20MM Threaded   SS Fittings    32   Nos-   1,538.57  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS 45 Deg. Elbow 15MMSS Fittings   160   Nos   Grinnell  1,538.57  0.02
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS 90 Deg. Elbow 15MMSS Fittings   163   Nos   Grinnell  1,538.57  0.03
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS 90 Deg. Elbow 15MM Threaded   SS Fittings    15   Nos-   1,538.57  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Coupling 300MMSS Fittings    22   Nos   Shurjoint 21,050.66  0.05
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Coupling 200MMSS Fittings    9   Nos   Shurjoint 14,595.00  0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Coupling 150MMSS Fittings   134   Nos   Shurjoint 21,050.66  0.28
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Coupling 100MMSS Fittings   106   Nos   Shurjoint 6,682.00  0.07
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Coupling 100MMSS Fittings    39   Nos   Grinnell  6,682.00  0.03
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Coupling 80MMSS Fittings    53   Nos   Shurjoint 3,674.75  0.02
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Coupling 80MMSS Fittings   131   Nos   Grinnell  3,674.75  0.05
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Coupling 65MMSS Fittings    43   Nos   Grinnell  3,452.00  0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Coupling 65MMSS Fittings    25   Nos   Shurjoint 3,452.00  0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Coupling 50MMSS Fittings   171   Nos   Grinnell  2,376.09  0.04
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Coupling 50MMSS Fittings    78   Nos   Shurjoint 2,376.09  0.02
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Coupling 40MMSS Fittings    85   Nos   Shurjoint 2,675.97  0.02
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Coupling 40MMSS Fittings    76   Nos   Grinnell  2,675.97  0.02
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Coupling 32MMSS Fittings   212   Nos   Grinnell  2,675.97  0.06
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS Tee 200mm X 200mmSS Fittings    1   Nos-   10,796.00  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS Tee 200mm X 100mmSS Fittings    1   Nos   Shurjoint 6,897.00  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS Tee 200mm X 80mmSS Fittings    1   Nos   Shurjoint 6,897.00  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS Tee 150mm X 150mmSS Fittings    1   Nos   Shurjoint 13,685.30  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS Tee 100mm X 100mmSS Fittings    6   Nos   Shurjoint 9,060.97  0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS Tee 100mm X 40mmSS Fittings    8   Nos   Shurjoint 1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS Tee 100mm X 40mmSS Fittings    1   Nos   Grinnell  1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 80mm X 80mmSS Fittings    1   Nos   Shurjoint 1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 80mm X 80mmSS Fittings    1   Nos-   1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 80mm X 65mmSS Fittings    2   Nos   Grinnell  1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 80mm X 50mmSS Fittings    1   Nos   Grinnell  1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 80mm X 50mmSS Fittings    2   Nos   Shurjoint 1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 80mm X 32mmSS Fittings    4   Nos   Shurjoint 1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 80mm X 32mmSS Fittings    1   Nos-   1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 80mm X 15mmSS Fittings    2   Nos-   1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 65mm X 65mmSS Fittings    1   Nos   Shurjoint 1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 65mm X 50mmSS Fittings    6   Nos   Grinnell  1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 65mm X 40mmSS Fittings    10   Nos   Grinnell  1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 65mm X 32mmSS Fittings    2   Nos   Shurjoint 1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 50mm X 32mmSS Fittings    24   Nos   Grinnell  1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 50mm X 32mmSS Fittings    6   Nos   Shurjoint 1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 50mm X 25mmSS Fittings    12   Nos-   1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 50mm X 25mmSS Fittings    4   Nos   Shurjoint 1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 50mm X 50mmSS Fittings    1   Nos   Shurjoint 1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 50mm X 40mmSS Fittings    1   Nos   Grinnell  1,708.35  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 40mm X 32mmSS Fittings    24   Nos   Grinnell  1,708.35  0.00
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 15 of 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Reducer Socket 150mm X 80mm   SS Fittings    1   Nos   Shurjoint 24,817.82  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW) SS Reducer Socket 150mm X 100mm   SS Fittings    2   Nos   Grinnell  24,817.82  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Reducer Socket 150mm X 65mm   SS Fittings    2   Nos   Shurjoint 24,817.82  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS S/W Socket 20MMSS Fittings    64   Nos   Grinnell  6,108.68   0.04
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS S/W Socket 25MMSS Fittings    59   Nos   Grinnell  6,108.68   0.04
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS S/W Socket 15MMSS Fittings    46   Nos   Grinnell  6,108.68   0.03
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW) SS S/W Reducer Socket 32mm X 15mm  SS Fittings    4   Nos   Grinnell  6,108.68   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW) SS S/W Reducer Socket 32mm X 20mm  SS Fittings    4   Nos   Grinnell  6,108.68   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   SS Dummy Flange 300MMSS Fittings    1   Nos-   5,286.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW) SS Grooved tail piece flange 300MM   SS Fittings    2   Nos-   5,286.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Grooved tail piece flange 65MM   SS Fittings    15   Nos-   1,055.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS Welded Flange 65MMSS Fittings    2   Nos-   1,055.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS Welded Flange 65MMSS Fittings    99   Nos-   1,055.00   0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   SS Welded Flange 200MMSS Fittings    4   Nos-   13,355.09  0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 40mm X 32mmSS Fittings    4   Nos-   1,708.35   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 40mm X 32mmSS Fittings    2   Nos   Shurjoint 1,708.35   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 40mm X 40mmSS Fittings    3   Nos   Grinnell  1,708.35   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 40mm X 40mmSS Fittings    2   Nos   Shurjoint 1,708.35   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 40mm X 25mmSS Fittings    13   Nos-   1,708.35   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 32mm X 25mmSS Fittings    1   Nos-   1,708.35   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 32mm X 32mmSS Fittings    19   Nos   Grinnell  1,708.35   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 32mm X 32mmSS Fittings    3   Nos   Shurjoint 1,708.35   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 32mm X 15mmSS Fittings    7   Nos   Grinnell  1,708.35   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 20mm X 20mmSS Fittings    8   Nos   Grinnell  1,708.35   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 20mm X 15mmSS Fittings    19   Nos   Grinnell  1,708.35   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Tee 20mm X 15mm Threaded    SS Fittings    13   Nos-   1,708.35   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Tee 15mm X 15mmSS Fittings    17   Nos   Grinnell  1,708.35   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Welded Tee 200mm X 80mm    SS Fittings    1   Nos-   6,897.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Welded Tee 80mm X 80mmSS Fittings    3   Nos-   6,897.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Welded Tee 80mm X 25mmSS Fittings    12   Nos-   6,897.00   0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Welded Tee 65mm X 65mmSS Fittings    2   Nos-   6,897.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Welded Tee 65mm X 32mmSS Fittings    7   Nos-   6,897.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Welded Tee 50mm X 50mmSS Fittings    2   Nos-   6,897.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Welded Tee 32mm X 25mmSS Fittings    1   Nos-   6,897.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Welded Tee 32mm X 15mmSS Fittings    2   Nos-   6,897.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Welded Tee 25mm X 20mmSS Fittings    1   Nos-   6,897.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS FTA 50mmSS Fittings    93   Nos-   2,000.00   0.02
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS FTA 40mmSS Fittings    34   Nos-   1,800.00   0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS FTA 32mmSS Fittings    27   Nos-   1,600.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Union 25MMSS Fittings   203   Nos   Grinnell  1,600.00   0.03
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Union 20MMSS Fittings    3   Nos   Grinnell  1,600.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Union 15MMSS Fittings    14   Nos   Grinnell  1,400.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Socket 15MMSS Fittings    45   Nos   Grinnell  31.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)SS Socket 25MMSS Fittings    86   Nos   Grinnell  31.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Reducer Socket 20mm X 15mm   SS Fittings    5   Nos   Grinnell  90.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Reducer Socket 25mm X 20mm   SS Fittings    2   Nos   Grinnell  90.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Reducer Socket 25mm X 15mm   SS Fittings    2   Nos   Grinnell  6,108.68   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Reducer Socket 40mm X 32mm   SS Fittings    10   Nos   Grinnell  6,108.68   0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Reducer Socket 65mm X 50mm   SS Fittings    19   Nos   Grinnell  6,108.68   0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Reducer Socket 65mm X 50mm   SS Fittings    4   Nos   Shurjoint 6,108.68   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Reducer Socket 80mm X 50mm   SS Fittings    1   Nos   Shurjoint 6,108.68   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Reducer Socket 80mm X 50mm   SS Fittings    2   Nos-   6,108.68   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Reducer Socket 50mm X 40mm   SS Fittings    1   Nos   Grinnell  6,108.68   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Reducer Socket 50mm X 40mm   SS Fittings    12   Nos   Shurjoint 6,108.68   0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Reducer Socket 50mm X 25mm   SS Fittings    1   Nos-   6,108.68   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Reducer Socket 40mm X 32mm   SS Fittings    2   Nos   Shurjoint 6,108.68   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Reducer Socket 100mm X 80mm   SS Fittings    1   Nos   Shurjoint 24,817.82  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  SS Reducer Socket 100mm X 80mm   SS Fittings    1   Nos   Grinnell  24,817.82  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW) SS Reducer Socket 300mm X 100mm   SS Fittings    2   Nos-   24,817.82  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   SS Welded Flange 100MMSS Fittings    1   Nos-   13,355.09  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   SS Dummy Flange 100MMSS Fittings    1   Nos-   13,355.09  0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    SS Welded Flange 80MMSS Fittings    1   Nos-   7,448.04   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   SS Grooved Flange 100MMSS Fittings    10   Nos-   10,886.99  0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   SS Grooved Flange 80MMSS Fittings    37   Nos-   7,448.04   0.03
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   SS Grooved Flange 65MMSS Fittings    2   Nos-   1,055.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  GI B/W Reducer 200mm x 150mm   GI Fittings    18   Nos  Metal Lloyd0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   GI 90 Deg Elbow 200MM  GI Fittings    30   Nos  Metal Lloyd0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)GI Pipe 200MM  GI Pipes    180   Mtr  Jindal Hissar 2,568.06   0.05
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)GI Pipe 250MM  GI Pipes    42   Mtr  Jindal Hissar 2,288.00   0.01
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 16 of 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2.3. ETV Parcel 8-A,B,C-HVAC Works (G10-42020) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project Code   Project NameMaterial DescriptionSpec    Qty   UoM  Make    U/R   Amount
+G10-42020ETV Parcel 8-A,B,C-HVAC WorksManual Balance valves Gear Type 250 mm DIA
+*Globe Type 
+Flanged End 
+Construction 
+PN-16
+1   Nos  ADVANCE 83838.00  0.01
+G10-42020ETV Parcel 8-A,B,C-HVAC WorksManual Balance valves Gear Type 200 mm DIA
+*Globe Type 
+Flanged End 
+Construction 
+PN-16
+1   Nos  ADVANCE 44687.00  0.00
+G10-42020ETV Parcel 8-A,B,C-HVAC WorksRUBBER BELLOW Type 250 mm DIAPN 16 1   NosRESISTOFLEX4750.00   0.00
+G10-42020ETV Parcel 8-A,B,C-HVAC WorksRUBBER BELLOW Type 200 mm DIAPN 16 1   NosRESISTOFLEX4750.00   0.00
+G10-42020ETV Parcel 8-A,B,C-HVAC WorksY-STRAINER 250 MM DIAPN 16 1   NosD S ENGINEERING18865.00  0.00
+G10-42020ETV Parcel 8-A,B,C-HVAC WorksY-STRAINER 200 MM DIAPN 16 1   NosD S ENGINEERING13051.50  0.00
+0.02
+Total (In Rs. Cr.)
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)GI Pipe 300MM  GI Pipes    30   Mtr  Jindal Hissar 3,406.00  0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)UPVC Pipe 65MMUPVC Piipe   60   Mtrs   Astral   100.61   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   PVC Elbow 90 Deg. 50MMPVC Fittings   2500   Nos   Finolex   66.39   0.02
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   PVC Elbow 45 Deg. 100MMPVC Fittings   200   Nos   Finolex   66.39   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   PVC Reducer 100MM x 75MM    PVC Fittings   70   Nos   Finolex   41.51   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   PVC Tee 150MM x 100MMPVC Fittings   131   Nos   Wavin  181.13   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  PVC Double Y 160MM x 160MM   PVC Fittings   25   Nos   Finolex  108.60   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)PVC Single Y 110MM PVC Fittings   1000   Nos   Finolex  108.60   0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   Brass 90 Deg. Elbow 15MM    Copper Fittings  710   Nos   Viega   40.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)Brass Tee 32MMCopper Fittings   2   Nos   Viega   88.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   Copper 45 Deg. Elbow 15MM   Copper Fittings   13   Nos   Viega0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   Copper 45 Deg. Elbow 20MM   Copper Fittings  555   Nos   Viega0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   Copper 90 Deg. Elbow 15MM   Copper Fittings  2570   Nos   Viega0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   Copper 90 Deg. Elbow 20MM   Copper Fittings  445   Nos   Viega0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  Copper Reducer 20MM X 15MM   Copper Fittings  1140   Nos   Viega0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  Copper Reducer 25MM X 15MM   Copper Fittings  160   Nos   Viega0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  Copper Reducer 32MM X 20MM   Copper Fittings   8   Nos   Viega0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)Copper Socket 15MMCopper Fittings  1640   Nos   Viega0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)Copper Socket 20MMCopper Fittings  720   Nos   Viega0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)Copper Tee 15MMCopper Fittings  255   Nos   Viega0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)Copper Tee 20MMCopper Fittings  245   Nos   Viega0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   Copper Tee 20MM X 15MM    Copper Fittings  302   Nos   Viega0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   Copper Tee 25MM X 20MM    Copper Fittings  190   Nos   Viega0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   Flux (Pest for copper joint)    Copper Fittings   31   Nos   Viega0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)FTA Brass 15MMCopper Fittings  620   Nos   Viega   90.00   0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)MTA Brass 15MMCopper Fittings  1389   Nos   Viega   90.00   0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)MTA Brass 20MMCopper Fittings  135   Nos   Viega   120.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   MTA Brass 20MM X 15MM    Copper Fittings  159   Nos   Viega   120.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)MTA Brass 25MMCopper Fittings  145   Nos   Viega   160.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)MTA Brass 32MMCopper Fittings   25   Nos   Viega   190.00   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW) Low Noise Reducer 110MM x 50MM Low Noise Fittings  215   Nos   Wavin  328.53   0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  Low Noise 90 Deg Elbow 75MM  Low Noise Fittings  11   Nos   Wavin  461.38   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  Low Noise 45 Deg Elbow 75MM  Low Noise Fittings  7   Nos   Wavin  461.38   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)   Low Noise Y 110MM x 75MM   Low Noise Fittings  45   Nos   Wavin  461.38   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    Low Noise socket 50MM    Low Noise Fittings 1098   Nos   Wavin  461.38   0.05
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)    Low Noise socket 70MM    Low Noise Fittings 1534   Nos   Wavin  461.38   0.07
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  Low Noise Multi Trap 110x75x50  Low Noise Fittings  69   Nos   Supreme  461.38   0.00
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)  Low Noise 90 Deg Elbow 50MM  Low Noise Fittings  558   Nos   Wavin  243.46   0.01
+G10-10030 WMUD TOWER A RESIDENTIAL (NEW)Low Noise Tee 50MMLow Noise Fittings  264   Nos   Wavin  243.46   0.01
+1.42
+Total (In Rs. Cr.)
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 17 of 31 
+ 
+3.2.4. HVAC Works for Medanta Hospital Noida (G10-34010) 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2.5. P&C  Projects Pvt Ltd ( DHK) (G10-46003) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project CodeProject NameMaterial DescriptionSpec Qty UoMMake U/R   Amount
+G10-34010 HVAC Works for Medanta Hospital Noida Pr. Indpendent Balancing+2Way Valve 40mm 40mm 10 NOSSEIMENS23800.00  0.02
+G10-34010 HVAC Works for Medanta Hospital Noida  Balancing Valve CI 25mm dia   PN16 FE   25mm  2 NOSCASTLE VALVES PVT LTD1398.00   0.00
+G10-34010 HVAC Works for Medanta Hospital Noida B/F VALVE CI LUG TYPE 125MM DIA  PN 16  125mm 12 NOSAdvance3889.00   0.00
+G10-34010 HVAC Works for Medanta Hospital Noida B/F VALVE CI LUG TYPE 100MM DIA  PN 16  100mm 6 NOSAdvance3344.00   0.00
+G10-34010 HVAC Works for Medanta Hospital Noida  B/F VALVE CI LUG TYPE 50MM DIA  PN 16  50mm  6 NOSAdvance2446.00   0.00
+G10-34010 HVAC Works for Medanta Hospital Noida B/F VALVE CI LUG TYPE 250MM DIA  PN 16  250mm 3 NOSAdvance13052.00  0.00
+G10-34010 HVAC Works for Medanta Hospital Noida B/F VALVE CI LUG TYPE 200MM DIA  PN 16  200mm 2 NOSAdvance6311.00   0.00
+G10-34010 HVAC Works for Medanta Hospital Noida  Balancing Valve CI 65mm dia   PN16 FE   65mm  3 NOSAdvance5731.00   0.00
+G10-34010 HVAC Works for Medanta Hospital Noida  Balancing Valve CI 100mm dia   PN16 FE  100mm 2 NOSAdvance9419.00   0.00
+G10-34010 HVAC Works for Medanta Hospital Noida  Balancing Valve CI 80mm dia   PN16 FE   80mm 10 NOSAdvance6538.00   0.01
+G10-34010 HVAC Works for Medanta Hospital Noida  Balancing Valve CI 50 mm dia   PN16 FE   50mm  2 NOSAdvance5253.00   0.00
+G10-34010 HVAC Works for Medanta Hospital Noida  Balancing Valve CI 32 mm dia   PN16 FE   32mm  1 NOSAdvance3225.00   0.00
+G10-34010 HVAC Works for Medanta Hospital Noida  STRAINER Y FEPN16 MS SS SC 80 MM   80mm  2 NOSEmerland6440.00   0.00
+G10-34010 HVAC Works for Medanta Hospital Noida  STRAINER Y FEPN16 MS SS SC 65 MM   65mm  1 NOSEmerland4665.00   0.00
+G10-34010 HVAC Works for Medanta Hospital Noida   Pipe ERW MS 8MM Thk 300 mm Dia   300mm 15 RMTJindal Hisar class,c3721.00   0.01
+G10-34010 HVAC Works for Medanta Hospital Noida   Pipe ERW MS 8MM Thk 200 mm Dia   200mm 5 RMTJindal Hisar class,c2490.00   0.00
+G10-34010 HVAC Works for Medanta Hospital Noida   Pipe ERW MS 8MM Thk 250 mm Dia   250mm 9 RMTJindal Hisar class,c3129.00   0.00
+G10-34010 HVAC Works for Medanta Hospital Noida   Pipe ERW MS Class C 50 mm Dia    50mm 15 RMTJindal Hisar class,c389.00   0.00
+G10-34010 HVAC Works for Medanta Hospital Noida   Pipe ERW MS Class C 65 mm Dia    65mm 12 RMTJindal Hisar class,c499.00   0.00
+G10-34010 HVAC Works for Medanta Hospital NoidaFIRE RATED INSULATION1200X600 75 SQMT  ENERGY SAVING & ALLIED PRODUCST  1068.00   0.01
+0.07
+Total (IN Rs. Cr.)
+Project Code  Project Name  Material Description   Spec    Qty   UoM   Make    U/R  Amount
+G10-46003P&C  Projects Pvt Ltd ( DHK)Hose Box   600 x 600 mm   2   Nos   NewAge  4,550.00  0.00091
+G10-46003P&C  Projects Pvt Ltd ( DHK)
+Wall Mounted Fan  450mm 1 P   1   Nos   Bajaj   1,600.00
+0.00016
+G10-46003P&C  Projects Pvt Ltd ( DHK)
+Wall Mounted Fan - 
+Exhaust
+250 mm    2   Nos  almonard  1,200.00
+0.00024
+G10-46003P&C  Projects Pvt Ltd ( DHK)
+Wall Mounted Fan - 
+Exhaust
+DX 250    10   Nos   Bajaj   1,000.00
+0.001
+G10-46003P&C  Projects Pvt Ltd ( DHK)Back Box3M14   Nos    MK   36.41  5.1E-05
+G10-46003P&C  Projects Pvt Ltd ( DHK)Back Box8M29   Nos    MK   74.01  0.000215
+G10-46003P&C  Projects Pvt Ltd ( DHK)Back Box8M50   Nos  Honeywell  74.01  0.00037
+G10-46003P&C  Projects Pvt Ltd ( DHK)Back Box12M20   Nos    MK   103.21 0.000206
+G10-46003P&C  Projects Pvt Ltd ( DHK)Back Box12M10   Nos  Honeywell  103.21 0.000103
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 18 of 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+G10-46003 P&C  Projects Pvt Ltd ( DHK)   Back Box1/2 M    37   Nos  Honeywell  25.20.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+front plate1m48   Nos  Honeywell  40.12
+0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+front plate2m47   Nos  Honeywell  40.12
+0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+front plate3M56   Nos  Honeywell  40.12
+0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+front plate4M32   Nos  Honeywell  53.04
+0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+front plate6M56   Nos  Honeywell  87.04
+0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+front plate12m24   Nos  Honeywell  142.12
+0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+3 pin socket6/16 A    50   Nos  Honeywell   22
+0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+Termination Box  TPN 6WAY   2   Nos   L & T    680
+0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+Termination Box  TPN 4WAY   3   Nos   L & T    540
+0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+Termination Box  TPN 8WAY   9   Nos   L & T    863
+0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+Termination Box  SPN 8WAY   1   Nos   L & T   458.25
+0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+VDB
+VTPN 8WAY 
+250A MCCB DD
+3   Nos   L & T  18,781.39
+0.01
+G10-46003 P&C  Projects Pvt Ltd ( DHK)    MCB10A SP    81   Nos   L & T    880.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)    MCB16A SP    2   Nos   L & T    2090.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)    MCB25A SP    1   Nos   L & T    2150.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)    MCB40A SP    2   Nos   L & T    3420.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)    MCB25A 3P    6   Nos   L & T    2150.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)    MCB32A 3P    9   Nos   L & T    4340.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)    MCB40A 3P    6   Nos   L & T    6280.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)    MCB63A 3P    3   Nos   L & T    6280.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)    MCCB63A 4P    4   Nos   L & T   1,860.00   0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)    MCCB80A 4P    2   Nos   L & T   2,130.00   0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)    MCCB100A 4P    1   Nos   L & T   3,250.00   0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)    MCCB125A 4P    4   Nos   L & T   3,250.00   0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)    MCCB200A 4P    1   Nos   L & T   3,250.00   0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)    RCCB100 mA 4P   1   Nos   L & T   2,136.00   0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)   LED Light18W5   Nos  Mollisi SMI 1,100.00   0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+Back Box - PVC2 M16   Nos    MK    34.4
+0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+Water Flow Switch  100 mm Dia   1   Nos
+System 
+Sensor
+3,852.00
+0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+Thermostat7   Nos  Blue Star   550
+0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)   Hooter1   Nos   Siemens  4,314.00   0.00
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+G I Pipe
+200 mm Dia, 
+5.1 mm Wall 
+thick.
+520   Mtr  Jindal Star 2,855.00
+0.15
+G10-46003 P&C  Projects Pvt Ltd ( DHK)
+Ceiling Fan   1200 mm 1 Star  120   Nos   Bajaj   1,200.00
+0.01
+0.18Total (In Rs. Cr.)
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 19 of 31 
+ 
+3.2.5. Lulu Mall-Kottayam (G10-46009) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2.5. V Guard Innovation Campus-Kochi (G10-46012) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project Code  Project NameMaterial DescriptionSpec   Qty   UoM  Make   U/R  Amount
+G10-46009 Lulu Mall-Kottayam  600 x 600 x 3 mm Cu. plate 2   Nos   OBO   582   0.00
+G10-46009 Lulu Mall-Kottayam Cabinet type exhaust fan(1500 CFM)1   Nos  Kruger  18839  0.00
+G10-46009 Lulu Mall-Kottayam    Y strainer 200 mm dia2   Nos   SANT  32010  0.01
+G10-46009 Lulu Mall-Kottayam    Y strainer 100 mm dia2   Nos   SANT  6296  0.00
+G10-46009 Lulu Mall-Kottayam  Butter fly valve 300 mm dia2   Nos  Advance  16874  0.00
+G10-46009 Lulu Mall-Kottayam  Butter fly valve 250 mm dia3   Nos  Advance  12235  0.00
+G10-46009 Lulu Mall-Kottayam  Butter fly valve 125 mm dia3   Nos  Advance  3456  0.00
+G10-46009 Lulu Mall-Kottayam  Butter fly valve 100 mm dia2   Nos  Advance  2865  0.00
+G10-46009 Lulu Mall-Kottayam  Butter fly valve 100 mm dia7   Nos  AUDCO  2650  0.00
+G10-46009 Lulu Mall-Kottayam Water meter (Brass type) 25mm dia2   Nos  Kranti  4200  0.00
+0.021
+Total (In Rs. Cr.)
+Project CodeProject NameMaterial DescriptionSpec   Qty   UoM  Make   U/R  Amount
+G10-46012 V Guard Innovation Campus-Kochi6 ''   FLOW SWITCH7   NosSystem Sensor4070  0.003
+G10-46012 V Guard Innovation Campus-KochiORIFACE  PLATE3   Nos949.96  0.000
+G10-46012 V Guard Innovation Campus-Kochi FLEXIBLE SPRINCKLER CONNECTION 1000 MM65   Nos  NEWAGE  810   0.005
+G10-46012 V Guard Innovation Campus-KochiUPRIGHT SPRINCKLER60   Nos  NEWAGE  150   0.001
+G10-46012 V Guard Innovation Campus-KochiPENDANT SPRINCKLER23   Nos  NEWAGE  150   0.000
+G10-46012 V Guard Innovation Campus-KochiSIDE WALL SPRINCKLER27   Nos  NEWAGE  160   0.000
+G10-46012 V Guard Innovation Campus-Kochi   DUAL PLATE CHECK VALVE  65 MM1   NOS  LEHRY 3372.35  0.000
+G10-46012 V Guard Innovation Campus-Kochi   DUAL PLATE CHECK VALVE  50 MM2   NOS  LEHRY 1462.06  0.000
+G10-46012 V Guard Innovation Campus-KochiCI  COUPLING 100 MM12   NOS  Neco  313.46  0.000
+G10-46012 V Guard Innovation Campus-KochiCI  COUPLING   75 MM40   NOS  Neco  321.9  0.001
+G10-46012 V Guard Innovation Campus-Kochi    CPVC PIPE  3''  SCH40  80   MM135   MTR  TRUFLO 775.33  0.010
+G10-46012 V Guard Innovation Campus-Kochi    CPVC PIPE  2''  11SDR  50   MM402   MTR  TRUFLO 330.98  0.013
+G10-46012 V Guard Innovation Campus-Kochi1''  FTA4   NOS  TRUFLO 198.77  0.000
+G10-46012 V Guard Innovation Campus-KochiCPVC  4 ''  ELBOW 2   NOS  TRUFLO 1595.78  0.000
+G10-46012 V Guard Innovation Campus-KochiCPVC  4''  FLANGE1   NOS  TRUFLO 1059.38  0.000
+G10-46012 V Guard Innovation Campus-Kochi80 MM  BUTTERFLY VALVE1   NOS   L&T   2043  0.000
+G10-46012 V Guard Innovation Campus-Kochi6W    TPN DB3   NOS  VGUARD 3561.02  0.001
+G10-46012 V Guard Innovation Campus-Kochi8W    TPN DB1   NOS  VGUARD 3877.12  0.000
+G10-46012 V Guard Innovation Campus-Kochi25A  DP MCB12   NOS  VGUARD 612.26  0.001
+G10-46012 V Guard Innovation Campus-Kochi40A  30MA  2P  RCCB3   NOS  VGUARD 1136.32  0.000
+G10-46012 V Guard Innovation Campus-Kochi63A  100MA  4P  RCCB4   NOS  VGUARD  3033  0.001
+G10-46012 V Guard Innovation Campus-Kochi  external weather proof box     300 x 3002   NOS4225.9  0.001
+G10-46012 V Guard Innovation Campus-Kochi  external weather proof box     150 x 3001   NOS4225.9  0.000
+G10-46012 V Guard Innovation Campus-Kochi8M   COVER PLATE180   NOS  VGUARD  122   0.002
+G10-46012 V Guard Innovation Campus-Kochi6M   COVER PLATE33   NOS  VGUARD  85   0.000
+G10-46012 V Guard Innovation Campus-Kochi2M   COVER PLATE10   NOS  VGUARD 50.15  0.000
+G10-46012 V Guard Innovation Campus-Kochi1M   COVER PLATE400   NOS  VGUARD 50.15  0.002
+G10-46012 V Guard Innovation Campus-Kochi    6/16A  SHUTTER TYPE SOCKET240   NOS  VGUARD  138   0.003
+G10-46012 V Guard Innovation Campus-Kochi6A  3 PIN SOCKET70   NOS  VGUARD  77   0.001
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 20 of 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2.6. TCS-TVM Misc.Civil and External Services (G10-46010) 
+ 
+ 
+ 
+ 
+ 
+ 
+G10-46012 V Guard Innovation Campus-Kochi10A  1 WAY  SWITCH55   NOS  VGUARD  47   0.000
+G10-46012 V Guard Innovation Campus-Kochi8M   METAL   BOX25   NOS  VGUARD  85   0.000
+G10-46012 V Guard Innovation Campus-Kochi6M   METAL   BOX66   NOS  VGUARD  66   0.000
+G10-46012 V Guard Innovation Campus-Kochi4M   METAL   BOX30   NOS  VGUARD  52   0.000
+G10-46012 V Guard Innovation Campus-Kochi3M   METAL BOX210   NOS  VGUARD  42   0.001
+G10-46012 V Guard Innovation Campus-Kochi3M   METAL BOX88   NOSSCHNEIDER42   0.000
+G10-46012 V Guard Innovation Campus-Kochi A9HKS316 -  16A  3P  ACT  9  P&S  PROVISION1   NOSSCHNEIDER847.11  0.000
+G10-46012 V Guard Innovation Campus-Kochi   PKF16F423 - PANEL SOCKET 16/21   NOSSCHNEIDER351.19  0.000
+G10-46012 V Guard Innovation Campus-Kochi A9HKS332 -  32A  3P  ACT  9  P&S  PROVISION3   NOSSCHNEIDER1449.77  0.000
+G10-46012 V Guard Innovation Campus-KochiA9KF71232 - MCB 2P 32A3   NOSSCHNEIDER357.03  0.000
+G10-46012 V Guard Innovation Campus-Kochi   PKF32F434  PANEL SOCKET  ANGLED3   NOSSCHNEIDER655.69  0.000
+G10-46012 V Guard Innovation Campus-Kochi   PKF32F434  PANEL SOCKET  ANGLED2   NOSSCHNEIDER655.69  0.000
+G10-46012 V Guard Innovation Campus-Kochi A9HKS332 -  32A  3P  ACT  9  P&S  PROVISION2   NOSSCHNEIDER1449.77  0.000
+G10-46012 V Guard Innovation Campus-Kochi25A  2P  MCB2   NOSSCHNEIDER357.03  0.000
+G10-46012 V Guard Innovation Campus-Kochi A9HKS332 -  32A  3P  ACT  9  P&S  PROVISION3   NOSSCHNEIDER1449.77  0.000
+G10-46012 V Guard Innovation Campus-Kochi     - 32A 4P  MCB3   NOSSCHNEIDER579.73  0.000
+G10-46012 V Guard Innovation Campus-Kochi   PKF32F434  PANEL SOCKET  ANGLED3   NOSSCHNEIDER655.69  0.000
+G10-46012 V Guard Innovation Campus-KochiA9KF71440   MCB  4P  40 A1   NOSSCHNEIDER1133.96  0.000
+G10-46012 V Guard Innovation Campus-Kochi 81283 - SOCLE  PRISE  ENC. INC  63A  3 PNT1   NOSSCHNEIDER2767.64  0.000
+G10-46012 V Guard Innovation Campus-Kochi  A9HKS563  - 5P  63A  Acti  9 Provision1   NOSSCHNEIDER3359.53  0.000
+G10-46012 V Guard Innovation Campus-Kochi  A9HKS563  - 5P  63A  Acti  9 Provision7   NOSSCHNEIDER3359.53  0.002
+G10-46012 V Guard Innovation Campus-KochiA9HK71263  63 A  2P  MCB6   NOSSCHNEIDER610.4  0.000
+G10-46012 V Guard Innovation Campus-Kochi   81278  SOCLE  PRISE ENC 63A  2PT7   NOSSCHNEIDER2767.64  0.002
+G10-46012 V Guard Innovation Campus-Kochi  A9HKS563  - 5P  63A  Acti  9 Provision5   NOSSCHNEIDER3359.53  0.002
+G10-46012 V Guard Innovation Campus-Kochi   81283  SOCLE PRISE  ENC 63A 3 PNT5   NOSSCHNEIDER2767.64  0.001
+G10-46012 V Guard Innovation Campus-Kochi    13442  -  6 M   MINI  KAEDRA  1   NOSSCHNEIDER2773.59  0.000
+G10-46012 V Guard Innovation Campus-Kochi   A9N18374  -  4P  100 A   415V   MCB1   NOSSCHNEIDER9988.45  0.001
+G10-46012 V Guard Innovation Campus-Kochi125A  INDUSTRIAL SOCKET1   NOSSCHNEIDER13210.99 0.001
+G10-46012 V Guard Innovation Campus-Kochi   3.5C  X  70 SQ.MM  AL  AR. CABLE184   MTR POLYCAB  295  0.005
+G10-46012 V Guard Innovation Campus-Kochi   3.5C  X  50 SQ.MM  AL  AR. CABLE190   MTR POLYCAB  214  0.004
+G10-46012 V Guard Innovation Campus-Kochi    3C  X  16 SQ. MM CU AR. CABLE573   MTR POLYCAB  443  0.025
+G10-46012 V Guard Innovation Campus-Kochi    3C  X 10 SQ. MM  CU  AR. CABLE131   MTR POLYCAB 334.35  0.004
+G10-46012 V Guard Innovation Campus-Kochi 3.5C  X  185 SQ.MM  AL  AR. CABLE ( FRESH)92   MTR POLYCAB  696  0.006
+G10-46012 V Guard Innovation Campus-Kochi50X6 CU strip50   Mtr2257.92  0.011
+G10-46012 V Guard Innovation Campus-Kochi50X10 Cu strip60   Mtr3763.19  0.023
+0.145
+Total (In Rs. Cr.)
+Project CodeProject NameMaterial Description  Spec  Qty UoM  Make   U/R  Amount
+G10-46010 TCS-TVM Misc.Civil and External Services FOAMCORE 160 mm dia SN-04   48 Mtr   Supreme  366.81  0.002
+G10-46010 TCS-TVM Misc.Civil and External Services FOAMCORE 200 mm dia SN-04   24 Mtr   Supreme  694.12  0.002
+G10-46010 TCS-TVM Misc.Civil and External Services 110 mm UPVC Pipe   Type B  42 Mtr   Supreme  181.25  0.001
+G10-46010 TCS-TVM Misc.Civil and External Services 200 mm UPVC Pipe   6 KG/CM2 96 Mtr   Supreme  478.19  0.005
+0.009Total (In Rs. Cr.)
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 21 of 31 
+ 
+3.2.7. Sands Infin IT Park (C10-46030) 
+ 
+ 
+ 
+ 
+3.2.8. Sands Infin IT Park (C10-46030) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2.9. Kukatpally Developers Private Limited (G10-44027) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project Code Project NameMaterial DescriptionSpec   Qty   UoM  Make   U/R  Amount
+C10-46030 Sands Infin IT Park
+PIBCV WITH 
+ACTUATOR, DIA 
+125
+7   Nos  DANFOSS 103000  0.07
+0.07
+Total (In Rs. Cr.)
+Project Code  Project NameMaterial DescriptionSpec   Qty   UoM  Make   U/R  Amount
+G10-24005 LTIMINDTREE KOLKATA MS ERW PIPE IS:3589 - 200NB X HEAVY-Class C MS Pipe  60   Rmt  Jindal  2044  0.01
+G10-24005 LTIMINDTREE KOLKATA MS ERW PIPE IS:1239 - 25NB X HEAVY-Class C MS Pipe  1002  Rmt  Jindal  176   0.02
+G10-24005 LTIMINDTREE KOLKATA GI Sloted channel 41 mm x 21mm x 2.5 mm   GI   2000  RmtFluid Valve Co 355   0.07
+G10-24005 LTIMINDTREE KOLKATA
+Motorized Fire Damper with out actuator & 
+control panel(1000mm x 1300 mm)GI   13   Sqmtr  Tristar  6950  0.01
+G10-24005 LTIMINDTREE KOLKATA    3.5C X 300 Sqmm XLPE LT Cable Al   16   Rmt  Polycab 1,054.00  0.00
+G10-24005 LTIMINDTREE KOLKATA3.5C X 240 Sqmm FS LT cableAl   135   Rmt   KEI  1,112.80  0.02
+G10-24005 LTIMINDTREE KOLKATA3.5C X 400 Sqmm FS LT cableAl   72   Rmt   KEI  1,730.25  0.01
+G10-24005 LTIMINDTREE KOLKATA3.5C X 400 Sqmm FS LT cableAl   37   Rmt   KEI  1,730.25  0.01
+0.15Total (In Rs. Cr.)
+Project CodeProject NameMaterial Description    SpecQty   UoM  Make   U/R  Amount
+G10-44027 Kukatpally Developers Private Limited Temperature Gauge 6" (150mm dial)  90   No.s  H guru 2,350.00  0.02
+G10-44027 Kukatpally Developers Private Limited   Butterfly Valve    50mm dia   10   No.s  Lehry 1,265.00  0.00
+G10-44027 Kukatpally Developers Private Limited   Butterfly Valve    50mm dia    2   No.s  Advance0.00
+G10-44027 Kukatpally Developers Private Limited   Butterfly Valve    100mm dia   2   No.s  Lehry 2,008.80  0.00
+G10-44027 Kukatpally Developers Private Limited   Butterfly Valve    100mm dia   2   No.s
+Sendham
+arai 
+Engineeri
+ng
+2,157.60  0.00
+G10-44027 Kukatpally Developers Private Limited   Butterfly Valve    200mm dia   2   No.s  Lehry 6,291.00  0.00
+G10-44027 Kukatpally Developers Private Limited  Brass Ball Valve    20mm dia   180   No.s  Lehry  473   0.01
+G10-44027 Kukatpally Developers Private Limited  Brass Ball Valve    15mm dia   50   No.s   Sant0.00
+G10-44027 Kukatpally Developers Private Limited    MS PIPE 400mm dia   30   MtrPioneer tubes4,680.00  0.01
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 22 of 31 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+G10-44027 Kukatpally Developers Private Limited    MS PIPE 300mm dia   30   MtrPioneer tubes3,470.00  0.01
+G10-44027 Kukatpally Developers Private Limited    MS PIPE 250mm dia   12   MtrPioneer tubes2,955.00  0.00
+G10-44027 Kukatpally Developers Private Limited    MS PIPE 200mm dia   50   MtrPioneer tubes2,280.00  0.01
+G10-44027 Kukatpally Developers Private Limited    MS PIPE 150mm dia   150   MtrPioneer tubes1,147.00  0.02
+G10-44027 Kukatpally Developers Private Limited    MS PIPE 100mm dia   40   MtrPioneer tubes797   0.00
+G10-44027 Kukatpally Developers Private Limited    MS PIPE 80mm dia   60   MtrPioneer tubes537   0.00
+G10-44027 Kukatpally Developers Private Limited    MS PIPE 65mm dia   40   MtrPioneer tubes541   0.00
+G10-44027 Kukatpally Developers Private Limited    MS PIPE 50mm dia    50   MtrPioneer tubes340   0.00
+G10-44027 Kukatpally Developers Private Limited
+Ventilation Fan Model-
+VFL-C
+Inline fan 
+(rectangular)
+7   No.s  Caryaire 10,475.00 0.01
+G10-44027 Kukatpally Developers Private Limited   ASPEN pumpHI flow6   No.sMax- HI flow0.00
+G10-44027 Kukatpally Developers Private Limited   EPS Insulation    250mm dia   12   Mtr  Beardsell 102.6  0.00
+G10-44027 Kukatpally Developers Private Limited   EPS Insulation    500mm dia   6   Mtr  Beardsell  930   0.00
+G10-44027 Kukatpally Developers Private Limited   EPS Insulation50mm dia   50   Mtr  Beardsell  295   0.00
+G10-44027 Kukatpally Developers Private Limited   EPS Insulation    125mm dia   60   Mtr  Beardsell 176.13  0.00
+G10-44027 Kukatpally Developers Private Limited   EPS Insulation80mm dia   20   Mtr  Beardsell 129.96  0.00
+G10-44027 Kukatpally Developers Private Limited   EPS Insulation25mm dia    5   Mtr  Beardsell 79.23  0.00
+G10-44027 Kukatpally Developers Private Limited
+Acoustic insulation for 
+duct
+10mm thick x 
+1mtr x 1mtr 
+30   Sqmt  K-flex  402.04  0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  1400 x 450   1   No.s Air master 4347  0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  1050 x 300   1   No.s Air master 2173.5  0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  600 x 250    1   No.s Air master 1035  0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  350 x 250    1   No.s Air master 690   0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  550 x 250    1   No.s Air master 948.75  0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  500 x 300    1   No.s Air master 1035  0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  300 x 300    1   No.s Air master 690   0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  400 x 400    1   No.s Air master 1104  0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  150 x 150    1   No.s Air master 690   0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  450 x 200    1   No.s Air master 690   0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  500 x 350    1   No.s Air master 1207.5  0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  800 x 400    1   No.s Air master 2208  0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  450 x 200    1   No.s Air master 690   0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  600 x 250    1   No.s Air master 1035  0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  300 x 150    1   No.s Air master 690   0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  400 x 300    1   No.s Air master 828   0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  400 x 250    1   No.s Air master 690   0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  300 x 300    1   No.s Air master 690   0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  450 x 250    1   No.s Air master 776.25  0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  1450 x 450   1   No.s Air master 4502.25  0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  200 x 200    1   No.s Air master 690   0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  450 x 200    1   No.s Air master 690   0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  200 x 200    1   No.s Air master 690   0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  2400 x 450   1   No.s Air master 7452  0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  350 x 300    1   No.s Air master 724.5  0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  400 x 250    1   No.s Air master 690   0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  400 x 200    1   No.s Air master 690   0.00
+G10-44027 Kukatpally Developers Private Limited Fusible link fire damper  150 x 150    1   No.s Air master 690   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  150 x 150    1   No.s Air master 580   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  300 x 150    1   No.s Air master 580   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  1050 X 350   1   No.s Air master 2131.5  0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  1050 X 400   1   No.s Air master 2436  0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  300 X 150    1   No.s Air master 580   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  500 X 150    1   No.s Air master 580   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  550 X 250    1   No.s Air master 797.5  0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  450 X 250    1   No.s Air master 652.5  0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  450 X 150    1   No.s Air master 580   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  100 X 100    1   No.s Air master 580   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  350 X 300    1   No.s Air master 609   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  850 x 400    1   No.s Air master 1972  0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  850 x 600    1   No.s Air master 2958  0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  1200 x 500   1   No.s Air master 3480  0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  1200 x 300   1   No.s Air master 2088  0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  1000 x 500   1   No.s Air master 2900  0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  800 x 300    1   No.s Air master 1392  0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  600 x 250    1   No.s Air master 870   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  500 x 150    1   No.s Air master 435   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  550 x 200    1   No.s Air master 580   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  650 x 150    1   No.s Air master 580   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  300 x 200    1   No.s Air master 580   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  650 x 250    1   No.s Air master 942.5  0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  150 x 100    1   No.s Air master 580   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  500 x 400    1   No.s Air master 1160  0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  100 x 100    1   No.s Air master 580   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  450 x 200    1   No.s Air master 580   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  300 x 150    1   No.s Air master 580   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  300 x 300    1   No.s Air master 580   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  400 x 300    1   No.s Air master 696   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  100 X 100    1   No.s Air master 580   0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  500 x 400    1   No.s Air master 1160  0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  600 x 500    1   No.s Air master 1740  0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  500 x 500    1   No.s Air master 1450  0.00
+G10-44027 Kukatpally Developers Private Limited Volume Control Damper  600 x 250    1   No.s Air master 870   0.00
+G10-44027 Kukatpally Developers Private Limited  Continuous grill    2440 x 100   8   No.s Air master 829.6  0.00
+G10-44027 Kukatpally Developers Private Limited  Continuous grill    850 x 100    4   No.s Air master 340   0.00
+G10-44027 Kukatpally Developers Private Limited  Continuous grill    1550 x 100   3   No.s Air master 527   0.00
+G10-44027 Kukatpally Developers Private Limited  Continuous grill    950 x 100    1   No.s Air master 340   0.00
+G10-44027 Kukatpally Developers Private Limited  Continuous grill    750 x 100    1   No.s Air master 340   0.00
+G10-44027 Kukatpally Developers Private Limited  Continuous grill    800 x 100    1   No.s Air master 340   0.00
+G10-44027 Kukatpally Developers Private Limited  Continuous grill    850 x 150    1   No.s Air master 433.5  0.00
+G10-44027 Kukatpally Developers Private Limited  Continuous grill    1250 x 150   1   No.s Air master 637.5  0.00
+G10-44027 Kukatpally Developers Private Limited  Continuous grill    2440 x 150   4   No.s Air master 1244.4  0.00
+G10-44027 Kukatpally Developers Private Limited  Continuous grill    1250 x 290   2   No.s Air master 1232.5  0.00
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 23 of 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2.10. MEP works of Apollo Healthcity, Gurugram (G10-30013) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+G10-44027 Kukatpally Developers Private Limited  Linear spot grills   1800 X 150   3   No.sAir master918   0.00
+G10-44027 Kukatpally Developers Private Limited  Linear spot grills    850 x 300   12   No.sAir master867   0.00
+G10-44027 Kukatpally Developers Private Limited  Linear spot grills   1250 x 450   1   No.sAir master1912.5  0.00
+G10-44027 Kukatpally Developers Private Limited  Linear spot grills   1400 x 150   3   No.sAir master714   0.00
+G10-44027 Kukatpally Developers Private Limited  Linear spot grills   1450 x 150   1   No.sAir master739.5  0.00
+G10-44027 Kukatpally Developers Private Limited  Linear spot grills   1000 x 150   10   No.sAir master510   0.00
+G10-44027 Kukatpally Developers Private Limited  Linear spot grills    900 x 150    4   No.sAir master459   0.00
+G10-44027 Kukatpally Developers Private Limited  Linear spot grills   1800 x 150   19   No.sAir master918   0.00
+G10-44027 Kukatpally Developers Private Limited  Linear spot grills   1200 x 150   29   No.sAir master612   0.00
+G10-44027 Kukatpally Developers Private Limited  Linear spot grills   1800 x 350   4   No.sAir master2142   0.00
+G10-44027 Kukatpally Developers Private Limited  Linear spot grills   1400 x 350   1   No.sAir master1666   0.00
+G10-44027 Kukatpally Developers Private Limited  Linear spot grills   1200 x 350   2   No.sAir master1428   0.00
+G10-44027 Kukatpally Developers Private Limited  Collar dampers    450 x 150   30   No.sAir master340   0.00
+G10-44027 Kukatpally Developers Private Limited  Collar dampers    850 x 300   12   No.sAir master867   0.00
+G10-44027 Kukatpally Developers Private Limited  Collar dampers    600 x 150   35   No.sAir master340   0.00
+G10-44027 Kukatpally Developers Private Limited  Collar dampers    450 x 150   15   No.sAir master340   0.00
+G10-44027 Kukatpally Developers Private Limited  Collar dampers    900 x 450    4   No.sAir master1377   0.00
+G10-44027 Kukatpally Developers Private Limited  Collar dampers    300 x 300    1   No.sAir master340   0.00
+G10-44027 Kukatpally Developers Private Limited  Al Armoured cable   3cx35 Sqmm  836   Rmt   KEI   138   0.01
+G10-44027 Kukatpally Developers Private Limited Al Armoured cable-FRLS 3.5C X 300sqmm  79   Rmt   KEI   1101   0.01
+G10-44027 Kukatpally Developers Private Limited Al Armoured cable-FRLS 3.5C X 300sqmm  90   Rmt   KEI   1101   0.01
+G10-44027 Kukatpally Developers Private Limited Al Armoured cable-FRLS 3.5C X 240sqmm  214   Rmt   KEI   870   0.02
+G10-44027 Kukatpally Developers Private Limited Al Armoured cable-FRLS 3.5C X 150sqmm  40   Rmt   KEI   575   0.00
+G10-44027 Kukatpally Developers Private Limited Al Armoured cable-FRLS 3.5C X 70sqmm  54   Rmt   KEI   310   0.00
+G10-44027 Kukatpally Developers Private Limited Al Armoured cable-FRLS 3.5C X 50sqmm  34   Rmt   KEI   231   0.00
+0.19
+Total (In Rs. Cr.)
+Project CodeProject NameMaterial Description   Spec   Qty   UoM   Make    U/R  Amount
+G10-30013 MEP works of Apollo Healthcity, Gurugram 150 mm dia MS pipe    150mm  600   M  Jindal Hissar 1064.00   0.06
+G10-30013 MEP works of Apollo Healthcity, Gurugram 40 mm GI pipe40mm  800   M  Jindal Hissar 222.48   0.02
+G10-30013 MEP works of Apollo Healthcity, Gurugram 32 mm GI pipe32mm  200   M  Jindal Hissar 254.34   0.01
+G10-30013 MEP works of Apollo Healthcity, Gurugram 25mm uPVC pipe25mm  900   M   Prince   80.98   0.01
+G10-30013 MEP works of Apollo Healthcity, Gurugram Duct Acostic 10mm10mm  2000  Sqmtr   ALP   345    0.07
+G10-30013 MEP works of Apollo Healthcity, Gurugram 3.5CX120 Sqmm  Al Arm.3.5CX120sqmm120   M  KEI Cables 455.09   0.01
+G10-30013 MEP works of Apollo Healthcity, Gurugram 3.5CX70 Sqmm FS Al Arm.3.5CX70sqmm95   M  KEI Cables 546.25   0.01
+G10-30013 MEP works of Apollo Healthcity, Gurugram 3.5CX50 Sqmm FS Al. Arm3.5CX50sqmm445   M  KEI Cables 411.01   0.02
+G10-30013 MEP works of Apollo Healthcity, Gurugram 3.5CX240 Sqmm  Al Arm.3.5CX240sqmm105   M  KEI Cables 985.32   0.01
+G10-30013 MEP works of Apollo Healthcity, Gurugram 3.5CX240 Sqmm FS Al Arm.3.5CX240sqmm74   M  KEI Cables 1367.48   0.01
+G10-30013 MEP works of Apollo Healthcity, Gurugram Y Strainer 100mm100mm   3    EA   Zoloto  6794.55   0.00
+G10-30013 MEP works of Apollo Healthcity, Gurugram Y Strainer 200mm200mm   1    EA   Zoloto  24606.75   0.00
+0.22Total (In Rs. Cr.)
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 24 of 31 
+ 
+5.3 . Factories 
+3.3.1. MEP works for Trimetro Factory Odisha (G28-28003) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project CodeProject NameMaterial DescriptionSpec   Qty   UoM    Make     U/R  Amount
+G28-28003 MEP works for Trimetro Factory Odisha MS ERW PIPE IS:1239 - 25NB X HEAVY (6.35MM)  MS ERW   360   MTR    JINDAL    169   0.01
+G28-28003 MEP works for Trimetro Factory Odisha MS ERW PIPE IS:1239 - 32NB X HEAVY (6.35MM)  MS ERW   72   MTR    JINDAL   202.6  0.00
+G28-28003 MEP works for Trimetro Factory Odisha MS ERW PIPE IS:1239 - 40NB X HEAVY (6.35MM)  MS ERW   72   MTR    JINDAL    253   0.00
+G28-28003 MEP works for Trimetro Factory Odisha MS ERW PIPE IS:3589 - 250NB X HEAVY (8MM)  MS ERW  180.5  MTR    JINDAL   3152   0.06
+G28-28003 MEP works for Trimetro Factory Odisha MS ERW PIPE IS:3589 - 300NB X HEAVY (8MM)  MS ERW   6   MTR    JINDAL   3560   0.00
+G28-28003 MEP works for Trimetro Factory Odisha MS ERW PIPE IS:3589 - 350NB X HEAVY (8MM)  MS ERW   2   MTR    JINDAL   3929   0.00
+G28-28003 MEP works for Trimetro Factory Odisha MS ERW PIPE IS:3589 - 400NB X HEAVY (8MM)  MS ERW   17.6   MTR    JINDAL   4400   0.01
+G28-28003 MEP works for Trimetro Factory Odisha    150 x 75mm (EPS PIPE SECTION )140   RMT583.53  0.01
+G28-28003 MEP works for Trimetro Factory Odisha    200 x 75mm (EPS PIPE SECTION )125   RMT628.05  0.01
+G28-28003 MEP works for Trimetro Factory OdishaPIR Duct 30 mm (Uncut Sheet)288   SQM1111   0.03
+G28-28003 MEP works for Trimetro Factory OdishaPIR Duct 20 mm  (Uncut Sheet)48   SQM940   0.00
+G28-28003 MEP works for Trimetro Factory Odisha25 mm Nitrile Rubber sheet9.6 SQM/Roll  10   Roll   ARMACELL   480   0.00
+G28-28003 MEP works for Trimetro Factory Odisha  15 mm Acoustic Insulation(Nitrile Rubber)105   SQM151   0.00
+G28-28003 MEP works for Trimetro Factory Odisha   MITZVAH AIR CURTAIN ( ASP 2120 AP)  12   NOS17,706.00  0.02
+G28-28003 MEP works for Trimetro Factory Odisha   MITZVAH AIR CURTAIN ( ASP 3180 AP) 4   NOS23,010.00  0.01
+G28-28003 MEP works for Trimetro Factory Odisha   MITZVAH AIR CURTAIN ( ASP 3150 AP)20   NOS23,010.00  0.05
+G28-28003 MEP works for Trimetro Factory Odisha   MITZVAH AIR CURTAIN ( ASP 2090 AP)7   NOS15,366.00  0.01
+STYRENE 
+PACKINGS
+ASAWA 
+INSULATION
+MITZVAH
+G28-28003 MEP works for Trimetro Factory OdishaGrill(600 X600)8   NOS2800   0.00
+G28-28003 MEP works for Trimetro Factory OdishaGrill(600 X150)4   NOS580   0.00
+G28-28003 MEP works for Trimetro Factory OdishaGrill(300 X150)4   NOS580   0.00
+G28-28003 MEP works for Trimetro Factory OdishaGrill(600 X150)12   NOS580   0.00
+G28-28003 MEP works for Trimetro Factory OdishaLouver(700 X200)5   NOS823.5  0.00
+G28-28003 MEP works for Trimetro Factory OdishaLouver(350 X150)1   NOS823.5  0.00
+G28-28003 MEP works for Trimetro Factory OdishaLouver(350 X200)1   NOS823.5  0.00
+G28-28003 MEP works for Trimetro Factory OdishaLouver(300 X300)1   NOS823.5  0.00
+G28-28003 MEP works for Trimetro Factory OdishaLouver(250 X250)1   NOS823.5  0.00
+G28-28003 MEP works for Trimetro Factory OdishaLouver(500 X250)1   NOS823.5  0.00
+G28-28003 MEP works for Trimetro Factory OdishaLouver(750 X 600)1   NOS3705.75  0.00
+G28-28003 MEP works for Trimetro Factory OdishaLouver(750 x 500)1   NOS2882.25  0.00
+G28-28003 MEP works for Trimetro Factory OdishaLouver(800 x 200)1   NOS1317.6  0.00
+G28-28003 MEP works for Trimetro Factory OdishaLouver(500 x 250)1   NOS1029.375  0.00
+G28-28003 MEP works for Trimetro Factory OdishaLouver(450 x 200)2   NOS823.5  0.00
+G28-28003 MEP works for Trimetro Factory OdishaVCD(200 X150)7   NOS823.5  0.00
+G28-28003 MEP works for Trimetro Factory OdishaVCD(350 X350)2   NOS1008.788  0.00
+G28-28003 MEP works for Trimetro Factory OdishaVCD(400 X200)2   NOS823.5  0.00
+G28-28003 MEP works for Trimetro Factory OdishaVCD(1250 X400)9   NOS4117.5  0.00
+G28-28003 MEP works for Trimetro Factory OdishaVCD(1300 X400)1   NOS4282.2  0.00
+G28-28003 MEP works for Trimetro Factory OdishaVCD(700 X400)1   NOS2305.8  0.00
+G28-28003 MEP works for Trimetro Factory OdishaVCD(1400 X400)4   NOS4611.6  0.00
+G28-28003 MEP works for Trimetro Factory OdishaDiffuser (300 x 300/600 x 600)5   NOS1350   0.00
+G28-28003 MEP works for Trimetro Factory OdishaDiffuser (375 x 375/600 x 600)1   NOS1687.5  0.00
+G28-28003 MEP works for Trimetro Factory Odisha  300 MM MOTORISED BUTTERFLY VALVE1   NOS46,831.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha  200MM BUTTERFLY VALVE (MOTORISED)4   NOS42,873.00  0.02
+G28-28003 MEP works for Trimetro Factory Odisha32MM BALL VALVE BRASS8   NOS746   0.00
+G28-28003 MEP works for Trimetro Factory OdishaAIR VENT 32MM12   NOS332   0.00
+4.88 Sqm
+Tristar
+2.535 Sqm
+9.74 Sqm
+2.16 Sqm
+CASTLE
+G28-28003 MEP works for Trimetro Factory Odisha3C×4 sqmm cuXLPE   1500   Mtr   Grandly   129.00  0.02
+G28-28003 MEP works for Trimetro Factory Odisha3C×6 sqmm cuXLPE   3000   Mtr   Grandly   182.00  0.05
+G28-28003 MEP works for Trimetro Factory Odisha4C×2.5 sqmm cuXLPE    400   Mtr   Grandly   115.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha4C×4 sqmm cuXLPE    149   Mtr   Grandly   166.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha3.5C×70 sqmm AlXLPE    79   Mtr   Grandly   288.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha3.5C×95 sqmm AlXLPE    107   Mtr   Grandly   359.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha3.5C×150 sqmm AlXLPE    348   Mtr   Grandly   534.00  0.02
+G28-28003 MEP works for Trimetro Factory Odisha3.5C×240 sqmm AlXLPE    129   Mtr   Grandly   849.00  0.01
+G28-28003 MEP works for Trimetro Factory Odisha3C×4 sqmm cuFS49   MtrFUSION POLYMAR  INDUSTRIES187.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha3C×6 sqmm cuFS    100   MtrFUSION POLYMAR  INDUSTRIES255.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha4C×4 sqmm cuFS50   MtrFUSION POLYMAR  INDUSTRIES239.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha4C×6 sqmm cuFS    201   MtrFUSION POLYMAR  INDUSTRIES332.00  0.01
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 25 of 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+G28-28003 MEP works for Trimetro Factory Odisha450 MM P. TRAY HDG85   NOS780.00  0.01
+G28-28003 MEP works for Trimetro Factory Odisha300 MM P.TRAY HDG145   NOS561.00  0.01
+G28-28003 MEP works for Trimetro Factory Odisha100 MM P.TRAY HDG34   NOS233.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha150 MM TRAY COVER110   NOS233.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha50MM TRAY COVER200   NOS233.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha150 MM P.TRAY GP100   NOS260   0.00
+G28-28003 MEP works for Trimetro Factory Odisha150 MM P.TRAY HDG17   NOS342   0.00
+G28-28003 MEP works for Trimetro Factory Odisha200 MM P.TRAY HDG10   NOS427   0.00
+G28-28003 MEP works for Trimetro Factory Odisha750MM LADDER TRAY29   NOS944   0.00
+G28-28003 MEP works for Trimetro Factory Odisha1000 MM LADDER TRAY12   NOS911   0.00
+G28-28003 MEP works for Trimetro Factory Odisha450 MM  TRAY COVER7   NOS428   0.00
+G28-28003 MEP works for Trimetro Factory Odisha1000X1000X750 MM TEELADDER TYPE  2   NOS1,597.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha1000X1000X1000 MM TEELADDER TYPE  7   NOS1,810.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha1000X1000X150 MM TEELADDER TYPE  18   NOS1,025.50  0.00
+G28-28003 MEP works for Trimetro Factory Odisha1000X1000X600 MM TEELADDER TYPE  16   NOS1,597.20  0.00
+G28-28003 MEP works for Trimetro Factory Odisha1000X1000X450 MM TEELADDER TYPE  5   NOS1,234.50  0.00
+G28-28003 MEP works for Trimetro Factory Odisha600x600x300 MM TEELADDER TYPE  2   NOS1,234.50  0.00
+G28-28003 MEP works for Trimetro Factory Odisha1000X300X300 MM TEELADDER TYPE  12   NOS1,597.20  0.00
+G28-28003 MEP works for Trimetro Factory Odisha150 TEE103   NOS2,868.60  0.03
+G28-28003 MEP works for Trimetro Factory Odisha300X300X150 MM TEE25   NOS1,425.60  0.00
+G28-28003 MEP works for Trimetro Factory Odisha450X450 MM TEE9   NOS1,600.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha50 X150 TEE137   NOS1,160.00  0.02
+G28-28003 MEP works for Trimetro Factory Odisha50 X 300 TEE26   NOS823.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha450 X150 TEE10   NOS2,868.60  0.00
+G28-28003 MEP works for Trimetro Factory Odisha100X100X50 MM TEE12   NOS1,540.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha50 TEE16   NOS1,160.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha300X150 CROSS TEE6   NOS1,425.60  0.00
+G28-28003 MEP works for Trimetro Factory Odisha50 CROSS TEE30   NOS1,860.00  0.01
+G28-28003 MEP works for Trimetro Factory Odisha50X150 CROSS TEE10   NOS1,860.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha1000 BEND 5   NOS1,500.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha50 BEND100   NOS480.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha450 BEND15   NOS972.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha150 BEND80   NOS426.00  0.00
+NEHA 
+ELECTRICAL 
+AND 
+MECHANICAL 
+WORKS ( ANANT 
+POWER)
+G28-28003 MEP works for Trimetro Factory OdishaMCB2P C 32A   31   NOS0.00
+G28-28003 MEP works for Trimetro Factory OdishaMCB4P C 63A   24   NOS0.00
+G28-28003 MEP works for Trimetro Factory OdishaMCB4P C 40A   21   NOS0.00
+G28-28003 MEP works for Trimetro Factory OdishaMCB2P C 40A   12   NOS0.00
+G28-28003 MEP works for Trimetro Factory OdishaRCCB2P 25A   12   NOS0.00
+G28-28003 MEP works for Trimetro Factory OdishaRCCB2P 63A   84   NOS0.00
+G28-28003 MEP works for Trimetro Factory OdishaMCB4P B 32A   1   NOS0.00
+G28-28003 MEP works for Trimetro Factory OdishaSURGE ARRESTER4P I MAX   66   NOS0.00
+G28-28003 MEP works for Trimetro Factory OdishaMCB1P B 10A   329   NOS0.00
+G28-28003 MEP works for Trimetro Factory OdishaMCB1P C 16A   853   NOS0.00
+G28-28003 MEP works for Trimetro Factory OdishaMCB1P C 25A   2   NOS0.00
+G28-28003 MEP works for Trimetro Factory Odisha4TIER 40  DB38   NOS0.00
+G28-28003 MEP works for Trimetro Factory Odisha18 WAY SPN3   NOS0.00
+G28-28003 MEP works for Trimetro Factory Odisha12 WAY SPN7   NOS0.00
+G28-28003 MEP works for Trimetro Factory OdishaChemical earth pit 46   NOSJMV   4,135.00  0.02
+G28-28003 MEP works for Trimetro Factory Odisha25 X 6 CU400   MTR80.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha32 X6 CU50   MTR102.00  0.00
+G28-28003 MEP works for Trimetro Factory Odisha   POLYCARBONATE BOX THREE WAY   out door type  300   Nos   NEPTUNE   720.00  0.02
+G28-28003 MEP works for Trimetro Factory OdishaTee24223.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaTee6304.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaTee20445.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducer2655.17  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducer71,860.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducing Elbow250136.51  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducing Tee40097.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducing Tee20097.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaCross Tee41,860.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaCross Tee21,234.80  0.00
+G28-28003 MEP works for Trimetro Factory OdishaCross Tee51,830.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducer5476.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducer31,118.18  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducer5253.13  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducer91,863.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducer51,400.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaElbow51,283.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaEqual Tee10780.50  0.00
+G28-28003 MEP works for Trimetro Factory OdishaEqual Tee201,029.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaEqual Tee61,201.90  0.00
+G28-28003 MEP works for Trimetro Factory OdishaEqual Tee161,000.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaEqual Tee74,347.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducing Tee13624.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducing Tee21,202.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducing Tee51,202.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducing Tee1823.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducing Tee1823.00  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducing Tee2780.50  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducing Tee4780.50  0.00
+G28-28003 MEP works for Trimetro Factory OdishaReducing Tee11,029.00  0.00
+0.57
+Total (In Rs. Cr.)
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 26 of 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designated Person of Contact 
+Rajesh Kumar Jha 
+Role: Project Construction Engineer 
+Contact No: 9811421201 
+3.3.2. JOCKEY FACTORY CUTTACK (G28-28001) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designated Person of Contact: 
+Ujjal Das 
+Project Code Project NameMaterial DescriptionSpec   Qty   UoM  Make  U/R  Amount
+G28-28001JOCKEY FACTORY CUTTACKUpright Sprinkler(K-115)Sprinkler  495   Nos.  TYCO  859.32 0.042536
+G28-28001JOCKEY FACTORY CUTTACKPendent Sprinkler(K-80)Sprinkler  190   Nos.  TYCO  205.00 0.003895
+G28-28001JOCKEY FACTORY CUTTACKSS Braided Flexible Hose Pipe(1500mm long) Sprinkler  136   Nos.  HD FIRE 910.00 0.012376
+G28-28001JOCKEY FACTORY CUTTACKSluice Valve - 250NBValve   1   Nos.  LEHRY 36,313.80 0.003631
+G28-28001JOCKEY FACTORY CUTTACKY strainer - 200 NBValve   1   Nos.  LEHRY 16,973.25 0.001697
+G28-28001JOCKEY FACTORY CUTTACKDual Plate Check Valve - 150 NBValve   3   Nos.  LEHRY  5118  0.001535
+G28-28001JOCKEY FACTORY CUTTACKDual Plate Check Valve - 50 NBValve   1   Nos.  LEHRY  5118  0.000512
+G28-28001JOCKEY FACTORY CUTTACKGear Operated Butterfly Valve - 200 NB   Valve   1   Nos.  LEHRY  5243.2 0.000524
+G28-28001JOCKEY FACTORY CUTTACKButterfly Valve - 200 NBValve   3   Nos.  LEHRY  5243.2 0.001573
+G28-28001JOCKEY FACTORY CUTTACKButterfly Valve - 150 NBValve   5   Nos.  LEHRY  2778.2 0.001389
+0.06967Total (In Rs. Cr.)
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 27 of 31 
+ 
+Phone: 8104123877 
+3.3.3. Exide Energy - Mechanical Works (G28-42008) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X` 
+Project CodeProject NameMaterial Description  Spec   Qty   MTRMakeU/R    Amount
+G28-42008 Exide Energy - Mechanical Works    MS PIPE    150MM  17    102JINDAL13560.00
+G28-42008 Exide Energy - Mechanical Works    MS PIPE    200MM   636JINDAL16970.00
+G28-42008 Exide Energy - Mechanical Works    MS PIPE    250MM  18    108JINDAL23820.00
+G28-42008 Exide Energy - Mechanical Works    MS PIPE    300MM   16JINDAL25410.00
+G28-42008 Exide Energy - Mechanical Works    MS PIPE    400MM   318JINDAL40050.00
+G28-42008 Exide Energy - Mechanical Works MS BUTTERFLY VALVE 100MM   4    NA   ADVANCE / PN16    28390.00
+G28-42008 Exide Energy - Mechanical Works MS BUTTERFLY VALVE 150MM   1    NA   ADVANCE / PN16    40410.00
+G28-42008 Exide Energy - Mechanical Works MS BUTTERFLY VALVE 200MM   4    NA  ADVANCE / PN16     89260.00
+G28-42008 Exide Energy - Mechanical Works MS BUTTERFLY VALVE 300MM   4    NA  ADVANCE / PN16    208700.01
+G28-42008 Exide Energy - Mechanical Works MS BUTTERFLY VALVE 450MM   4    NA  ADVANCE / PN16    459330.02
+G28-42008 Exide Energy - Mechanical Works   PIPE SECTION   600MM  88    44    Q-CONTROL22550.02
+G28-42008 Exide Energy - Mechanical Works MS SLIP ON FLANGE  100MM  18    NAMONTEX7600.00
+G28-42008 Exide Energy - Mechanical Works MS SLIP ON FLANGE  200MM   4    NAMONTEX23750.00
+G28-42008 Exide Energy - Mechanical Works MS SLIP ON FLANGE  250MM   3    NAMONTEX33250.00
+G28-42008 Exide Energy - Mechanical Works MS SLIP ON FLANGE  300MM  31    NAMONTEX36570.01
+G28-42008 Exide Energy - Mechanical Works MS SLIP ON FLANGE  400MM  27    NAMONTEX52250.01
+G28-42008 Exide Energy - Mechanical Works  MS ELBOW 90*  150MM   1    NAMONTEX9500.00
+G28-42008 Exide Energy - Mechanical Works  MS ELBOW 90*  200MM   2    NAMONTEX14920.00
+G28-42008 Exide Energy - Mechanical Works  MS ELBOW 90*  250MM   3    NAMONTEX22850.00
+G28-42008 Exide Energy - Mechanical Works  MS ELBOW 90*  300MM  48    NAMONTEX36580.02
+G28-42008 Exide Energy - Mechanical Works  MS ELBOW 90*  400MM  11    NAMONTEX66500.01
+G28-42008 Exide Energy - Mechanical Works  MS ELBOW 90*  600MM  17    NAMONTEX190000.03
+G28-42008 Exide Energy - Mechanical Works  MS Y STRAINER  150MM   6    NA   DS Engg / PN16    157040.01
+G28-42008 Exide Energy - Mechanical Works  MS Y STRAINER  200MM   3    NA   DS Engg / PN16    275250.01
+0.17Total (In Rs. Cr.)
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 28 of 31 
+ 
+ 
+ 
+5.4 . Infrastructure 
+3.4.1. WCR EPC-01R-RJ: Nagda–Kota  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designated Person of Contact: 
+Gaurav 
+Designation: Store Manager 
+Phone: 8429189006 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project Code    Project NameMaterial DescriptionSpec   QtyUoMMakeU/R    Amount
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota
+B-175 MASTGI MAST  2  NOSRUKMANI/MARUTI NANDAN80,500.000.01                      
+G79-36001 WCR EPC-01R-RJ:Nagda-KotaOCT POLEGI LIGHT POLE5  NOSUNEEFY7,850.000.00                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota
+DWARF MAST 4.75 MTRGI MAST  2  NOSRUKMANI/MARUTI NANDAN79,000.000.00                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota
+RI NO 361 MAST FOR CTGI MAST  2  NOSRUKMANI/MARUTI NANDAN79,000.000.00                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota
+RI NO 381  MAST FOR SP ISOLATOR   GI MAST  6  NOSRUKMANI/MARUTI NANDAN79,000.000.00                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota
+RI NO 371-2 MAST FOR SUPPORT INSULATOR GI MAST  35  NOSRUKMANI/MARUTI NANDAN79,000.000.03                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota
+RI NO S-100 MAST FOR ATGI MAST  3  NOSRUKMANI/MARUTI NANDAN79,000.000.00                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota
+RI NO 331 MAST FOR 132 KV CT    GI MAST  4  NOSRUKMANI/MARUTI NANDAN79,000.000.00                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota
+RI NO 341 MAST  FOR LAGI MAST  11  NOSRUKMANI/MARUTI NANDAN79,000.000.01                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota
+RI NO 441 MAST FOR 100 KVA , 25 KV AT  GI MAST  3  NOSRUKMANI/MARUTI NANDAN79,000.000.00                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota  11 KV DISC INSULATORS 280MM 70KNHIGH VOLTAGE INSULATOR280  NOSADITYA BIRLA GRASIM640.000.02                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota  28.62 MM ACSR ZEBRA CONDUCTORHIGH VOLTAGE INSULATOR OVERHEAD TRANSMISSION CABLE60  MTRAJANMA INDUSTRIES LLP330.000.00                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota  38.25 MM DIA AAC BULL CONDUCTOROVERHEAD POWER LINE CONDUCTOR450  MTRAJANMA INDUSTRIES LLP600.000.03                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota  19/2.5 MM GS STRANDED EARTH WIREHIGH TENSILE OVERHEAD EARTHING WIRE200  MTRAJANMA INDUSTRIES LLP76.000.00                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota  19/4 MM BEC GALVANIZED STEEL WIREBURIED EARTH CONDUCTOR540  MTRAJANMA INDUSTRIES LLP76.000.00                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota 150 SQ MM COPPER CROSS FEEDER WIRECOPPER CROSS FEEDER WIRE350  MTRJK CABLE LTD & KMG WIRE LTD1,207.490.04                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota   160 SQ MM COPPER JUMPER WIRECOPPER JUMPER WIRE800  MTRJK CABLE LTD & KMG WIRE LTD1,372.490.11                      
+G79-36001 WCR EPC-01R-RJ:Nagda-KotaGI M 16X50 BOLT16 DIAMETER  AND 50 MM LENGTH8000 NOS   ROYAL BALAJI ENGINEERING LIMITED16.020.01                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota  2 C X 25 SQ MM PVC ALUMINIUM CABLELOW TENSION POWER CABLE484  MTRAJANMA INDUSTRIES LLP AND CHANDRESH CABLE LTD73.700.00                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota   7 C X 2.5 SQ MM COPPER CABLELOW VOLTAGE UPTO 1100 V CONTROL CABLE600  MTRAJANMA INDUSTRIES LLP AND CHANDRESH CABLE LTD152.660.01                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota    2 C X 4 SQ MM COPPER CABLELOW VOLTAGE UPTO 1100 V COOPER CABLE2000 MTRAJANMA INDUSTRIES LLP AND CHANDRESH CABLE LTD76.330.02                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota    4 C X 16 SQ MM AL ARM CABLE1100 V GRADE POWER CABLE2500 MTRAJANMA INDUSTRIES LLP AND CHANDRESH CABLE LTD87.220.02                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota  2 C X 70 SQ MM PVC ALUMINIUM CABLE1100 V LT POWER CABLE175  MTRAJANMA INDUSTRIES LLP AND CHANDRESH CABLE LTD157.920.00                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota   MEC CONTROL CABLE 3CX4 COPPERCONTROL AND POWER CABLE450  MTRVIZTECH INDUSTRIAL SYSYTEMS78.000.00                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota   10 C X 2.5 SQ MM COPPER CABLE1100 V GRADE COPPER CABLE370  MTRAJANMA INDUSTRIES LLP AND CHANDRESH CABLE LTD237.500.01                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota   MCB DISTRIBUTION BOARD 100A MCB DISTRIBUTION BOARD 100A 1  NOSSPN CONTROLS24,100.000.00                      
+G79-36001 WCR EPC-01R-RJ:Nagda-Kota   MCB DISTRIBUTION BOARD 63A MCB DISTRIBUTION BOARD 100A 5  NOSSPN CONTROLS15,600.000.01                      
+0.35
+Total (In Rs. Cr.)
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 29 of 31 
+ 
+ 
+ 
+3.4.2. WCR EPC-3R: Gangapur City–Ramganjmandi  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Designated Person of Contact: 
+Ankit Kumar 
+Designation: Store Manager 
+Phone: 8882562046  
+ 
+3.4.3. PGCIL-SS86 FATEHGARH (G20-36003) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project Code   Project Name   Material Description  Qty   UoM   U/R   Amount
+G20-36003 PGCIL-SS86 FATEHGARH AAC Bull Conductor   5   Drum  670.00   0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+ASCR Bersimis 
+Conductor
+4   Drum  556.62   0.000
+G20-36003 PGCIL-SS86 FATEHGARH Clamp and connectors  1   LOT  9,491.89   0.001
+G20-36003 PGCIL-SS86 FATEHGARH   HDPE Pipe1.5   KM  105.00   0.000
+G20-36003 PGCIL-SS86 FATEHGARH  33kV Insulator    80   Nos  1,850.00   0.015
+G20-36003 PGCIL-SS86 FATEHGARH
+Reinforcement Steel 
+"16mm" dia
+4.5   TON   53.6    0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+Reinforcement Steel 
+"20mm" dia
+24   TON   53.6    0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+Reinforcement Steel 
+"25mm" dia
+2   TON   53.6    0.000
+G20-36003 PGCIL-SS86 FATEHGARH  Rail pole 52kg/m   5.233  TON0.000
+Project CodeProject NameMaterial DescriptionSpecQty Total Weight UoMMakeU/R  Amount
+G79-36002 WCR EPC-3R : Gangapurcity - RamganjmandiB-175 MASTGI MAST7   2967   NOS  RUKMANI/MARUTI NANDAN 78,800.00  0.02
+G79-36002 WCR EPC-3R : Gangapurcity - RamganjmandiB-150 MASTGI MAST4   1485   NOS  RUKMANI/MARUTI NANDAN 78,800.00  0.01
+G79-36002 WCR EPC-3R : Gangapurcity - RamganjmandiS8 MASTGI MAST1   1383   NOS  RUKMANI/MARUTI NANDAN 79,000.00  0.01
+G79-36002 WCR EPC-3R : Gangapurcity - RamganjmandiS7 MASTGI MAST2   1895   NOS  RUKMANI/MARUTI NANDAN 81,500.00  0.02
+G79-36002 WCR EPC-3R : Gangapurcity - Ramganjmandi  RI NO 381  MAST FOR SP ISOLATORGI MAST2   173   NOS  RUKMANI/MARUTI NANDAN 79,000.00  0.00
+G79-36002 WCR EPC-3R : Gangapurcity - RamganjmandiRI NO 371-3 MAST FOR SUPPORT INSULATORGI MAST1   92    NOS  RUKMANI/MARUTI NANDAN 79,000.00  0.00
+G79-36002 WCR EPC-3R : Gangapurcity - RamganjmandiRI NO S-113GI MAST8   1218   NOS  RUKMANI/MARUTI NANDAN 79,000.00  0.01
+G79-36002 WCR EPC-3R : Gangapurcity - Ramganjmandi   RI NO 331 MAST FOR 132 KV CTGI MAST2   172   NOS  RUKMANI/MARUTI NANDAN 79,000.00  0.00
+G79-36002 WCR EPC-3R : Gangapurcity - Ramganjmandi    RI NO 341 S MAST  FOR LAGI MAST17   1166   NOS  RUKMANI/MARUTI NANDAN 79,000.00  0.01
+G79-36002 WCR EPC-3R : Gangapurcity - Ramganjmandi RI NO 441 MAST FOR 100 KVA , 25 KV ATGI MAST20   1781   NOS  RUKMANI/MARUTI NANDAN 79,000.00  0.01
+G79-36002 WCR EPC-3R : Gangapurcity - Ramganjmandi 11 KV DISC INSULATORS 280MM 70KN11 KV DISC INSULATORS 280MM 70KN464NOS   Aditya birla insulators   640.00  0.03
+G79-36002 WCR EPC-3R : Gangapurcity - Ramganjmandi    4C X 16 Sqmm pvc AL cable4C X 16 Sqmm pvc AL cable  604MTR  Chandresh cables limited  157.00  0.01
+G79-36002 WCR EPC-3R : Gangapurcity - Ramganjmandi    2C X 4 Sqmm pvc AL cable2C X 4 Sqmm pvc AL cable  1200MTR  Chandresh cables limited  23.10  0.00
+G79-36002 WCR EPC-3R : Gangapurcity - Ramganjmandi  Gi Bolt M 20x65 mm,N.F/W,S/W   Gi Bolt M 20x65 mm,N.F/W,S/W 5000NOS   Royal balaji engg pvt ltd  33.00  0.02
+G79-36002 WCR EPC-3R : Gangapurcity - RamganjmandiSOIL COMPACTORSOIL COMPACTOR1NOSINOMATIC0.00
+G79-36002 WCR EPC-3R : Gangapurcity - RamganjmandiM16X130 GI U BOLTM16X130 GI U BOLT    299NOS    Shree krishna ltd    23.51  0.00
+G79-36002 WCR EPC-3R : Gangapurcity - Ramganjmandi    PVC 4CX10 Sqmm al cablePVC 4CX10 Sqmm al cable   200MTRSPN CONTROL131.00  0.00
+G79-36002 WCR EPC-3R : Gangapurcity - Ramganjmandi32A Distribution box32A Distribution box4NOSSPN CONTROL    2,990.00  0.00
+G79-36002 WCR EPC-3R : Gangapurcity - Ramganjmandi63A distribution box63A distribution box1NOSSPN CONTROL    15,600.00  0.00
+0.16Total (In Rs. Cr.)
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 30 of 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: The values for materials with no recorded unit rates could not be included, as the unit rates were not available 
+in the ME2J report. 
+Project Code   Project Name   Material Description  Qty   UoM   U/R   Amount
+G20-36003 PGCIL-SS86 FATEHGARH AAC Bull Conductor   5   Drum  670.00   0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+ASCR Bersimis 
+Conductor
+4   Drum  556.62   0.000
+G20-36003 PGCIL-SS86 FATEHGARH Clamp and connectors  1   LOT  9,491.89   0.001
+G20-36003 PGCIL-SS86 FATEHGARH   HDPE Pipe1.5   KM  105.00   0.000
+G20-36003 PGCIL-SS86 FATEHGARH  33kV Insulator    80   Nos  1,850.00   0.015
+G20-36003 PGCIL-SS86 FATEHGARH
+Reinforcement Steel 
+"16mm" dia
+4.5   TON   53.6    0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+Reinforcement Steel 
+"20mm" dia
+24   TON   53.6    0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+Reinforcement Steel 
+"25mm" dia
+2   TON   53.6    0.000
+G20-36003 PGCIL-SS86 FATEHGARH  Rail pole 52kg/m   5.233  TON0.000
+G20-36003 PGCIL-SS86 FATEHGARH Old rRail pole 52kg/m 31.315  TON0.000
+G20-36003 PGCIL-SS86 FATEHGARH   Cube Mold6   Set0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+WELDING MACHINE 
+ARC 400A
+6   Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+ROPE 20 MM DIA(220 
+MTR BDL).
+10   BDL0.000
+G20-36003 PGCIL-SS86 FATEHGARH   ROPE 22 MM3   BDL0.000
+G20-36003 PGCIL-SS86 FATEHGARH FALL ARRESTOR 30 Mtr  6   Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH   SAFETY BELT5   Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH D Shackle Cap.5 Ton   5   Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+SINGLE SHEAVE PULLEY 
+OPEN TYPE CAP 5 ΤΟΝ
+6   Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+SINGLE SHEAVE PULLEY 
+CLOSE TYPE CAP 5TON
+9   Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+DOUBLE SHEAVE 
+PULLEY CAP 5 TON.
+9   Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+MS ROD BENDING 
+MACHINE CAP. 40 MM
+1   Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+DIGITAL MULTIMETER 
+(FLUKE MAKE - 101)
+Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH  CRIMPING TOOLNos0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+MAGNETIC DRILL 
+MACHINE (RALLI WOLF)
+Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+Power Winch Machine 
+Cap. 5 Ton
+Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+Canon MK300 Ferrule 
+Printer
+1   Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+REBAR CUTTING 
+MACHINE 
+Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+BOSCH IMPACT 
+WRENCH GDS 18V-1050 
+H
+2   Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH
+ MILWAUKEE IMPACT 
+WRENCH M18 
+6   Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH    RO PlantNos0.000
+G20-36003 PGCIL-SS86 FATEHGARH  Air Cooler 120L    20   Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH  Washing Machine   2   Nos0.000
+G20-36003 PGCIL-SS86 FATEHGARH   Refridgerator2   Nos0.000
+0.016Total (In Rs. Cr.)
+
+Surplus Material Report 
+ 
+ 
+ 
+ 
+ 
+Page 31 of 31 
+ 
+ 
+6 Surplus Consumption Analysis 
+ 
+ 
+During Feb'26, surplus material valued at Rs. 2.1 Cr was identified across projects. Of this, material worth 
+Rs. 0.27 Cr from the Buildings Vertical was successfully redeployed to various sites, resulting in effective 
+inventory utilization. The surplus consumption value for May'26 is currently under consolidation and will 
+be reported in the next quarter's report.  
+2.1
+5.03
+0.27
+0
+0
+1
+2
+3
+4
+5
+6
+Feb'26May'26
+Surplus Consumption Analysis
+Value (In Rs. Cr.)Consumption Value (In Rs. Cr.)

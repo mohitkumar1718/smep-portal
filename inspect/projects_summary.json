@@ -1,0 +1,223 @@
+{
+  "totalOverallValueCr": 31.5025,
+  "totalOverallItems": 2120,
+  "projects": [
+    {
+      "sheetName": "Pivot",
+      "projectCode": "Pivot",
+      "projectName": "Pivot",
+      "totalItems": 0,
+      "totalValueCr": 0
+    },
+    {
+      "sheetName": "Pivot Check",
+      "projectCode": "Pivot Check",
+      "projectName": "Pivot Check",
+      "totalItems": 0,
+      "totalValueCr": 0
+    },
+    {
+      "sheetName": "Sheet16",
+      "projectCode": "Sheet16",
+      "projectName": "Apollo Hospitals - MEP Works - Hyd",
+      "totalItems": 0,
+      "totalValueCr": 0
+    },
+    {
+      "sheetName": "Sheet1",
+      "projectCode": "Sheet1",
+      "projectName": "Sheet1",
+      "totalItems": 0,
+      "totalValueCr": 0
+    },
+    {
+      "sheetName": "Value Estimation",
+      "projectCode": "G28-28001",
+      "projectName": "Sattva Image Tower-HVAC Works",
+      "totalItems": 736,
+      "totalValueCr": 11.0376
+    },
+    {
+      "sheetName": "Remaining Projects",
+      "projectCode": "Remaining Projects",
+      "projectName": "Deloitte, Pune - 3rd Floor Fitout Works",
+      "totalItems": 0,
+      "totalValueCr": 0
+    },
+    {
+      "sheetName": "Pivot Final",
+      "projectCode": "Pivot Final",
+      "projectName": "Pivot Final",
+      "totalItems": 0,
+      "totalValueCr": 0
+    },
+    {
+      "sheetName": "Final",
+      "projectCode": "Final",
+      "projectName": "Final",
+      "totalItems": 0,
+      "totalValueCr": 0
+    },
+    {
+      "sheetName": "Final Final",
+      "projectCode": "Final Final",
+      "projectName": "Final Final",
+      "totalItems": 0,
+      "totalValueCr": 0
+    },
+    {
+      "sheetName": "Value Estimation - ref",
+      "projectCode": "G20-36003",
+      "projectName": "Sattva Image Tower-HVAC Works",
+      "totalItems": 620,
+      "totalValueCr": 10.0554
+    },
+    {
+      "sheetName": "G10-44040",
+      "projectCode": "G10-44040",
+      "projectName": "Sattva Image Tower-HVAC Works",
+      "totalItems": 2,
+      "totalValueCr": 0.1656
+    },
+    {
+      "sheetName": "G10-44039",
+      "projectCode": "G10-44039",
+      "projectName": "Apollo Hospitals - MEP Works - Hyd",
+      "totalItems": 12,
+      "totalValueCr": 1.2545
+    },
+    {
+      "sheetName": "G10-10030",
+      "projectCode": "G10-10030",
+      "projectName": "WMUD TOWER A RESIDENTIAL (NEW)",
+      "totalItems": 163,
+      "totalValueCr": 2.8394
+    },
+    {
+      "sheetName": "G10-42020",
+      "projectCode": "G10-42020",
+      "projectName": "ETV Parcel 8-A,B,C-HVAC Works",
+      "totalItems": 7,
+      "totalValueCr": 0.0342
+    },
+    {
+      "sheetName": "G10-34010",
+      "projectCode": "G10-34010",
+      "projectName": "HVAC Works for Medanta Hospital Noida",
+      "totalItems": 21,
+      "totalValueCr": 0.139
+    },
+    {
+      "sheetName": "G10-46003",
+      "projectCode": "G10-46003",
+      "projectName": "P&C  Projects Pvt Ltd ( DHK)",
+      "totalItems": 44,
+      "totalValueCr": 0.3635
+    },
+    {
+      "sheetName": "G10-46009",
+      "projectCode": "G10-46009",
+      "projectName": "Lulu Mall-Kottayam",
+      "totalItems": 11,
+      "totalValueCr": 0.042
+    },
+    {
+      "sheetName": "G10-46012",
+      "projectCode": "G10-46012",
+      "projectName": "V Guard Innovation Campus-Kochi",
+      "totalItems": 65,
+      "totalValueCr": 0.2906
+    },
+    {
+      "sheetName": "G10-46010",
+      "projectCode": "G10-46010",
+      "projectName": "TCS-TVM Misc.Civil and External Services",
+      "totalItems": 5,
+      "totalValueCr": 0.0176
+    },
+    {
+      "sheetName": "C10-46030",
+      "projectCode": "C10-46030",
+      "projectName": "Sands Infin IT Park",
+      "totalItems": 2,
+      "totalValueCr": 0.1442
+    },
+    {
+      "sheetName": "G10-24005",
+      "projectCode": "G10-24005",
+      "projectName": "LTIMINDTREE KOLKATA",
+      "totalItems": 9,
+      "totalValueCr": 0.291
+    },
+    {
+      "sheetName": "G10-44027",
+      "projectCode": "G10-44027",
+      "projectName": "Kukatpally Developers Private Limited",
+      "totalItems": 125,
+      "totalValueCr": 0.3738
+    },
+    {
+      "sheetName": "G10-30013",
+      "projectCode": "G10-30013",
+      "projectName": "MEP works of Apollo Healthcity, Gurugram",
+      "totalItems": 13,
+      "totalValueCr": 0.4338
+    },
+    {
+      "sheetName": "G28-44006",
+      "projectCode": "G28-44006",
+      "projectName": "VITP Pvt Ltd - CapitaLand Hyd Pearl DC",
+      "totalItems": 19,
+      "totalValueCr": 1.1968
+    },
+    {
+      "sheetName": "G28-28003",
+      "projectCode": "G28-28003",
+      "projectName": "MEP works for Trimetro Factory Odisha",
+      "totalItems": 139,
+      "totalValueCr": 1.1457
+    },
+    {
+      "sheetName": "G28-44003",
+      "projectCode": "G28-44003",
+      "projectName": "Amazon DC HYD121 - Site Infra",
+      "totalItems": 9,
+      "totalValueCr": 0.1455
+    },
+    {
+      "sheetName": "G79-36001",
+      "projectCode": "G79-36001",
+      "projectName": "WCR EPC-01R-RJ:Nagda-Kota",
+      "totalItems": 28,
+      "totalValueCr": 0.7044
+    },
+    {
+      "sheetName": "G79-36002",
+      "projectCode": "G79-36002",
+      "projectName": "WCR EPC-3R : Gangapurcity - Ramganjmandi",
+      "totalItems": 20,
+      "totalValueCr": 0.3247
+    },
+    {
+      "sheetName": "G28-28001",
+      "projectCode": "G28-28001",
+      "projectName": "JOCKEY FACTORY CUTTACK",
+      "totalItems": 11,
+      "totalValueCr": 0.1393
+    },
+    {
+      "sheetName": "G28-42008",
+      "projectCode": "G28-42008",
+      "projectName": "Exide Energy - Mechanical Works",
+      "totalItems": 25,
+      "totalValueCr": 0.3309
+    },
+    {
+      "sheetName": "G20-36003",
+      "projectCode": "G20-36003",
+      "projectName": "PGCIL-SS86 FATEHGARH",
+      "totalItems": 34,
+      "totalValueCr": 0.033
+    }
+  ]
+}
