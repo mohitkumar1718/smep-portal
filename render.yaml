@@ -9,3 +9,5 @@ services:
         value: production
       - key: PORT
         value: 10000
+      - key: MONGODB_URI
+        value: mongodb+srv://mohitkr7982_db_user:FFTvdQYPH1DaOsVq@cluster0.oeprtwt.mongodb.net/smep_db?retryWrites=true&w=majority
