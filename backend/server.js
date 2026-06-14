@@ -165,6 +165,10 @@ app.get('/api/projects', async (req, res) => {
     return res.json(mockDb.projects);
   }
   try {
+    const projCount = await Project.countDocuments();
+    if (projCount === 0) {
+      await seedMongoDB();
+    }
     const list = await Project.find();
     res.json(list);
   } catch (err) {
@@ -233,6 +237,10 @@ app.get('/api/materials', async (req, res) => {
     return res.json(mockDb.materials);
   }
   try {
+    const projCount = await Project.countDocuments();
+    if (projCount === 0) {
+      await seedMongoDB();
+    }
     const list = await Material.find();
     res.json(list);
   } catch (err) {
@@ -1232,11 +1240,13 @@ app.post('/api/reset', async (req, res) => {
   }
 
   try {
+    await Project.deleteMany({});
     await Material.deleteMany({});
     await MaterialRequest.deleteMany({});
     await Notification.deleteMany({});
     await AuditLog.deleteMany({});
     
+    await Project.insertMany(DEFAULT_PROJECTS);
     const mats = loadCleanMaterialsJson();
     await Material.insertMany(mats);
     
