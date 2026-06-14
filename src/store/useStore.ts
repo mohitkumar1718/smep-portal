@@ -208,7 +208,7 @@ const apiFetch = async (url: string, options: RequestInit = {}): Promise<any> =>
   };
   
   const isDev = typeof window !== 'undefined' && window.location.port === '5173';
-  const apiBase = isDev ? 'http://localhost:3001' : '';
+  const apiBase = isDev ? 'http://localhost:3001' : '/_/backend';
   const res = await fetch(`${apiBase}${url}`, {
     ...options,
     headers
