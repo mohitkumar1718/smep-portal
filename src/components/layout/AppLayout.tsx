@@ -68,7 +68,8 @@ export const AppLayout: React.FC<AppLayoutProps> = ({ activeTab, setActiveTab, c
     clearNotifications,
     requests,
     materials,
-    resetAllData
+    resetAllData,
+    dbMode
   } = useStore();
 
   if (!currentUser) {
@@ -314,6 +315,23 @@ export const AppLayout: React.FC<AppLayoutProps> = ({ activeTab, setActiveTab, c
         {/* Content Display Area */}
         <main className="flex-1 overflow-y-auto p-6">
           <div className="max-w-[1440px] mx-auto animate-in fade-in duration-300">
+            {dbMode === 'MOCK' && (
+              <div className="mb-6 bg-amber-50 border border-amber-200 text-amber-900 rounded-xl p-4 flex flex-col sm:flex-row sm:items-center justify-between gap-3 shadow-sm animate-in slide-in-from-top duration-200">
+                <div className="flex items-start gap-3">
+                  <span className="p-2 bg-amber-100 text-amber-800 rounded-lg shrink-0 mt-0.5 sm:mt-0 font-bold text-xs">
+                    ⚠️
+                  </span>
+                  <div>
+                    <h4 className="font-bold text-xs">Read-Only Database Fallback Mode Active</h4>
+                    <p className="text-[11px] text-amber-700 mt-1 leading-relaxed">
+                      The application failed to connect to your MongoDB Atlas cluster and has fallen back to a local memory database. 
+                      <strong> Edits or deletions will NOT persist upon page reload.</strong> 
+                      Please verify your Vercel <code>MONGODB_URI</code> environment variable and whitelist <code>0.0.0.0/0</code> (Allow Access from Anywhere) in your MongoDB Atlas Network Access settings.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            )}
             {children}
           </div>
         </main>

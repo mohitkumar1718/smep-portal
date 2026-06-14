@@ -122,6 +122,7 @@ interface SMEPState {
   notifications: Notification[];
   auditLogs: AuditLog[];
   isLoading: boolean;
+  dbMode: 'MONGODB' | 'MOCK';
   
   // Actions
   setCurrentUser: (user: User | null) => void;
@@ -214,6 +215,11 @@ const apiFetch = async (url: string, options: RequestInit = {}): Promise<any> =>
     headers
   });
   
+  const dbMode = res.headers.get('x-database-mode');
+  if (dbMode) {
+    useStore.setState({ dbMode: dbMode as 'MONGODB' | 'MOCK' });
+  }
+  
   if (!res.ok) {
     const errData = await res.json().catch(() => ({}));
     throw new Error(errData.error || `HTTP error ${res.status}`);
@@ -231,6 +237,7 @@ export const useStore = create<SMEPState>((set, get) => ({
   notifications: [],
   auditLogs: [],
   isLoading: false,
+  dbMode: 'MONGODB',
   
   // Actions
   setCurrentUser: (user) => {
