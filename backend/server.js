@@ -405,6 +405,9 @@ app.delete('/api/materials/:id', async (req, res) => {
 
   try {
     const prev = await Material.findOne({ id });
+    if (!prev) {
+      return res.status(404).json({ error: 'Material not found.' });
+    }
     await Material.findOneAndDelete({ id });
     
     const log = new AuditLog({
