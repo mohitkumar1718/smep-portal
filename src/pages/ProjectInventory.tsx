@@ -54,6 +54,8 @@ export const ProjectInventory: React.FC<ProjectInventoryProps> = ({
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedGroupFilter, setSelectedGroupFilter] = useState('ALL');
   const [showMyUploadsOnly, setShowMyUploadsOnly] = useState(false);
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [deletingId, setDeletingId] = useState<string | null>(null);
   
   // Sort States
   const [sortField, setSortField] = useState<SortField>('id');
@@ -221,6 +223,9 @@ export const ProjectInventory: React.FC<ProjectInventoryProps> = ({
     const valueCr = (formQty * formRate) / 10000000;
     const declareDate = new Date().toISOString().split('T')[0];
 
+    setIsSubmitting(true);
+    setFormError('');
+
     try {
       await addMaterial({
         projectId: formProjId,
@@ -254,6 +259,8 @@ export const ProjectInventory: React.FC<ProjectInventoryProps> = ({
       });
     } catch (err: any) {
       setFormError(err.message || 'Failed to declare surplus.');
+    } finally {
+      setIsSubmitting(false);
     }
   };
 
@@ -266,6 +273,7 @@ export const ProjectInventory: React.FC<ProjectInventoryProps> = ({
     const rate = editMaterial.unitRate;
     const amountCr = (qty * rate) / 10000000;
 
+    setIsSubmitting(true);
     try {
       await updateMaterial(editMaterial.id, {
         materialGroup: editMaterial.materialGroup,
@@ -283,16 +291,21 @@ export const ProjectInventory: React.FC<ProjectInventoryProps> = ({
       setEditMaterial(null);
     } catch (err) {
       console.error(err);
+    } finally {
+      setIsSubmitting(false);
     }
   };
 
   // Handle Delete Click
   const handleDeleteMaterial = async (id: string, desc: string) => {
     if (window.confirm(`Are you sure you want to delete material declaration:\n"${desc}"?`)) {
+      setDeletingId(id);
       try {
         await deleteMaterial(id);
       } catch (err) {
         console.error(err);
+      } finally {
+        setDeletingId(null);
       }
     }
   };
@@ -316,6 +329,9 @@ export const ProjectInventory: React.FC<ProjectInventoryProps> = ({
       setNewProjError('Job value must be positive.');
       return;
     }
+
+    setIsSubmitting(true);
+    setNewProjError('');
 
     try {
       await addProject({
@@ -349,6 +365,8 @@ export const ProjectInventory: React.FC<ProjectInventoryProps> = ({
       });
     } catch (err: any) {
       setNewProjError(err.message || 'Failed to create project.');
+    } finally {
+      setIsSubmitting(false);
     }
   };
 
@@ -692,17 +710,23 @@ export const ProjectInventory: React.FC<ProjectInventoryProps> = ({
                         <div className="inline-flex items-center gap-1.5">
                           <button
                             onClick={() => setEditMaterial(m)}
-                            className="p-1 text-slate-400 hover:text-bs-primary rounded hover:bg-slate-100"
+                            disabled={deletingId !== null}
+                            className="p-1 text-slate-400 hover:text-bs-primary rounded hover:bg-slate-100 disabled:opacity-40 disabled:cursor-not-allowed"
                             title="Edit Material"
                           >
                             <Edit3 size={13} />
                           </button>
                           <button
                             onClick={() => handleDeleteMaterial(m.id, m.description)}
-                            className="p-1 text-slate-400 hover:text-rose-600 rounded hover:bg-slate-100"
+                            disabled={deletingId !== null}
+                            className="p-1 text-slate-400 hover:text-rose-600 rounded hover:bg-slate-100 disabled:opacity-40 disabled:cursor-not-allowed"
                             title="Delete Material"
                           >
-                            <Trash2 size={13} />
+                            {deletingId === m.id ? (
+                              <div className="w-3.5 h-3.5 border-2 border-rose-500 border-t-transparent rounded-full animate-spin" />
+                            ) : (
+                              <Trash2 size={13} />
+                            )}
                           </button>
                         </div>
                       </td>
@@ -896,9 +920,17 @@ export const ProjectInventory: React.FC<ProjectInventoryProps> = ({
                 </button>
                 <button
                   type="submit"
-                  className="flex-1 bg-bs-primary hover:bg-bs-primary-dark text-white font-bold py-2 rounded-lg shadow-sm"
+                  disabled={isSubmitting}
+                  className="flex-1 bg-bs-primary hover:bg-bs-primary-dark text-white font-bold py-2 rounded-lg shadow-sm disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-1.5"
                 >
-                  Declare Surplus
+                  {isSubmitting ? (
+                    <>
+                      <div className="w-3.5 h-3.5 border-2 border-white border-t-transparent rounded-full animate-spin" />
+                      Declaring...
+                    </>
+                  ) : (
+                    'Declare Surplus'
+                  )}
                 </button>
               </div>
 
@@ -1021,9 +1053,17 @@ export const ProjectInventory: React.FC<ProjectInventoryProps> = ({
                 </button>
                 <button
                   type="submit"
-                  className="flex-1 bg-bs-primary hover:bg-bs-primary-dark text-white font-bold py-2 rounded-lg shadow-sm"
+                  disabled={isSubmitting}
+                  className="flex-1 bg-bs-primary hover:bg-bs-primary-dark text-white font-bold py-2 rounded-lg shadow-sm disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-1.5"
                 >
-                  Save Changes
+                  {isSubmitting ? (
+                    <>
+                      <div className="w-3.5 h-3.5 border-2 border-white border-t-transparent rounded-full animate-spin" />
+                      Saving...
+                    </>
+                  ) : (
+                    'Save Changes'
+                  )}
                 </button>
               </div>
 
@@ -1256,9 +1296,17 @@ export const ProjectInventory: React.FC<ProjectInventoryProps> = ({
                 </button>
                 <button
                   type="submit"
-                  className="flex-1 bg-bs-primary hover:bg-bs-primary-dark text-white font-bold py-2 rounded-lg shadow-sm"
+                  disabled={isSubmitting}
+                  className="flex-1 bg-bs-primary hover:bg-bs-primary-dark text-white font-bold py-2 rounded-lg shadow-sm disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-1.5"
                 >
-                  Create Project
+                  {isSubmitting ? (
+                    <>
+                      <div className="w-3.5 h-3.5 border-2 border-white border-t-transparent rounded-full animate-spin" />
+                      Creating...
+                    </>
+                  ) : (
+                    'Create Project'
+                  )}
                 </button>
               </div>
 
